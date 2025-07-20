@@ -3,7 +3,7 @@
 **Enormity** is an extraction dungeon crawler, and as such, will offer you a near infinite amount
 of lootable Gear! Broadly, there are 2 types of Gear cards: Weapons and Support items.
 
-**Weapon** cards are horizontal and take up 1 ![1 Hand Slots](svg/icon-hand-slots.svg), 2 ![2 Hands Slots](svg/icon-hand-slots-2.svg) or more ‘hand slots’. A typical Spacer
+**Weapon** cards are horizontal and take up 1 ![1 Hand Slots Icon](svg/icon-hand-slots.svg), 2 ![2 Hands Slots Icon](svg/icon-hand-slots-2.svg) or more ‘hand slots’. A typical Spacer
 has 2 hand slots, so they may equip 2 one-handed items or 1 two-handed item simultaneously.
 
 **Support** cards are vertical and take up 1 ![Slots Icon](svg/icon-slots.svg "Slots") each. Support slots are usually provided by your

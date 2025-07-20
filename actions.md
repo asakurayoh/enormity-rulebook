@@ -14,7 +14,7 @@ you resolve at the end of your turn. Catch Breath
 makes you discard 1 played Exert card and lose -1 ![Adrenaline Icon](svg/icon-adrenaline.svg "Adrenaline").
 See Catching Breath for details.
 
-**Fast Reload:** This action allows you to reload a currently equipped Weapon with **exactly 1 ammo **.
+**Fast Reload:** This action allows you to reload a currently equipped Weapon with **exactly 1 ammo ![Ammo Icon](svg/icon-ammo.svg)**.
 Note that some Weapons (with the **Heavy** keyword)
 can only be reloaded by the Full Reload action.
 See Fast Reloading on p. 23 for details.
