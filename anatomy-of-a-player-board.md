@@ -1,6 +1,6 @@
 # Anatomy Of A Player Board
 
-***Add Player Board Image***
+![Player board](img/player-board.png "Player board")
 
 **Character card** statistics:
 
