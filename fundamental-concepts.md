@@ -89,6 +89,4 @@ Game section**, at the back of this rulebook.
 
 ---
 
-- [**Previous:** What Is The Dark Side Of The Sun Demo?](what-is-the-dark-side-of-the-sun-demo.md)
-- [**Next:** Cardinal Rules](cardinal-rules.md)
-- [Back to the table of contents](README.md) 
+|[**Previous:** What Is The Dark Side Of The Sun Demo?](what-is-the-dark-side-of-the-sun-demo.md)|[Back to the table of contents](README.md) |[**Next:** Cardinal Rules](cardinal-rules.md)|
