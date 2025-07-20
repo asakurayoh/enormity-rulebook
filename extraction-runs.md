@@ -50,6 +50,8 @@ presented in this section:
 1. Perform Location Setup
 2. Choose Loadouts
 
+![Extraction Run Board Setup Example](img/setup-example.png)
+
 ## 1. Preparing Location Setup
 
 **1. Open the Location and Intruder Books:** Based on
