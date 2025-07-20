@@ -23,18 +23,18 @@ Thankfully, these stats will reset after each run.
 
 Vitals ![Vitals Icon](svg/icon-vitals.svg) represent your overall physical condition.
 
-Your ![Vitals Icon](svg/icon-vitals.svg) will go down as a result of suffering
+Your ![Vitals Icon](svg/icon-vitals.svg "Vitals") will go down as a result of suffering
 **damage** from Intruders, the environment or
 other story-related sources.
 
-If your ![Vitals Icon](svg/icon-vitals.svg) would ever go below 1, you suffer a
+If your ![Vitals Icon](svg/icon-vitals.svg "Vitals") would ever go below 1, you suffer a
 **flatline**. Draw a Flatline card and check it with
 the Scanner. As a result of a Flatline, you may
 die, perform a counter attack or even awaken
 some unknown force inside you (see Flatlining
 on p. 30).
 
-Regaining ![Vitals Icon](svg/icon-vitals.svg) is difficult, but not impossible,
+Regaining ![Vitals Icon](svg/icon-vitals.svg "Vitals") is difficult, but not impossible,
 there are abilities and items in the game that
 facilitate this.
 
@@ -62,17 +62,17 @@ p. 37).
 
 To lower Stress ![Stress Icon](svg/icon-stress.svg), you will be using the **Rationalize** action (see Actions on p. 14).
 
-If your ![Stress Icon](svg/icon-stress.svg) would ever go above 9, you suffer
+If your ![Stress Icon](svg/icon-stress.svg "Stress") would ever go above 9, you suffer
 a **nervous breakdown** (see Dying on p. 29).
 
 ## Adrenaline
 
 Adrenaline ![Adrenaline Icon](svg/icon-adrenaline.svg) represents your overall combat
-readiness. You gain ![Adrenaline Icon](svg/icon-adrenaline.svg) by performing certain
+readiness. You gain ![Adrenaline Icon](svg/icon-adrenaline.svg "Adrenaline") by performing certain
 actions, like attacking, scouting or rationalizing
 (see Actions on p. 14).
 
-If your ![Adrenaline Icon](svg/icon-adrenaline.svg) would ever go above 9, you suffer
+If your ![Adrenaline Icon](svg/icon-adrenaline.svg "Adrenaline") would ever go above 9, you suffer
 a **heart attack** (see Dying on p.29).
 
 ![Rubicon Stats](img/rubicon-stats.png "Rubicon Stats")

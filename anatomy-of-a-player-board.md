@@ -52,5 +52,5 @@ may refer to them e.g. Rudimentary Scanner. Simply put, your vitality level corr
 ---
 
 - [**Next:** Rubicon Stats](rubicon-stats.md)
-- [**Previous:** Anatomy Of A Player Board](anatomy-of-a-player-board.md)
+- [**Previous:** Spacers](spacers.md)
 - [**^** Back to the table of contents](README.md)
