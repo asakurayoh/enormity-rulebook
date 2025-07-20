@@ -12,7 +12,7 @@ for details.
 **Catch Breath:** This is a special action whose effect
 you resolve at the end of your turn. Catch Breath
 makes you discard 1 played Exert card and lose -1 ![Adrenaline Icon](svg/icon-adrenaline.svg "Adrenaline").
-See Catching Breath for details.
+See [Catching Breath](catching-breath.md) for details.
 
 **Fast Reload:** This action allows you to reload a currently equipped Weapon with **exactly 1 ammo ![Ammo Icon](svg/icon-ammo.svg)**.
 Note that some Weapons (with the **Heavy** keyword)
@@ -27,7 +27,7 @@ Reloading on p. 23 for details.
 
 **Move:** This action allows you to move the indicated
 number of spaces orthogonally (not diagonally).
-See the Spacer Movement for details.
+See the [Spacer Movement](spacer-movement.md) for details.
 
 **Rationalize:** This action allows you to recover 2 ![Stress Icon](svg/icon-stress.svg "Stress").
 **This is an Adrenaline ![Adrenaline Icon](svg/icon-adrenaline.svg) action.** See Rationalizing
@@ -51,3 +51,7 @@ on p. 19 for details.
 **Scout:** This action allows you to **scout a Blip
 in your Light’s range**. **This is an Adrenaline ![Adrenaline Icon](svg/icon-adrenaline.svg)
 action.** See Scouting on p. 18 for details.
+
+> [!TIP]  
+> [Catching Breath](catching-breath.md)  
+> [Spacer Movement](spacer-movement.md)

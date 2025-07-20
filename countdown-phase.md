@@ -21,7 +21,7 @@ steps in order:
 the Countdown Track:** This has various in-game
 effects, some of which you will soon resolve, while
 others are persistent and influence the entire run
-(see the Countdown Track box on p. 13 for a detailed
+(see the [Countdown Track](countdown-track.md) box on p. 13 for a detailed
 explanation). **Note: Skip this step during the first
 round of the run!**
 

@@ -78,7 +78,7 @@ them facedown. This is the Blip Pool.
 them in an opaque container. This is the Engram Pool.
 
 **6. Countdown Track:** Place the Countdown Track
-below the Location Book (see Countdown Track on
+below the Location Book (see [Countdown Track](countdown-track.md) on
 p. 13) and place the Countdown Marker on space
 ‘9’ of the track. Place the Extraction Marker on the
 space specified by your current Course 
@@ -97,7 +97,7 @@ Countdown Track.
 **8. Blips and Intruders: **If the scenario doesn’t explicitly show **starting Blip placement** intersections
 (see the Board Spaces, Adjacency, Lines, Intersections and Out-of-Bounds Spaces box below), place
 **exactly one Blip per spawn point cluster** (see
-Spawn Point Clusters on p. 10), with the direction
+[Spawn Point Clusters](spawn-point-clusters.md) on p. 10), with the direction
 arrow pointing towards most Spacers. Place Blips
 on the indicated spaces of the Countdown Track,
 if any. Place any Intruders on the indicated spaces.
@@ -109,7 +109,7 @@ placement!*
 take the appropriate Loot Deck (each section of the
 ship has its own unique deck!) out of its envelope,
 place the Loot Cache Lid card to the side, shuffle the
-rest of the cards, and place them on the Loot Dispenser (see the Loot Dispenser box). Then, place the
+rest of the cards, and place them on the Loot Dispenser (see the [Loot Dispenser](loot-dispenser.md) box). Then, place the
 Loot Cache Lid card on top. Place the Loot Cache
 tokens on indicated spaces. Draw random Engram
 tokens and place them on the indicated spaces.
@@ -160,7 +160,7 @@ find a list of three partial action cards, for a total of
 
 Each player takes their 6 partial Action cards and
 combines them, to create **three double-sided
-sleeved Action cards (see the Action Cards box
+sleeved Action cards (see the [Action Cards](action-card.md) box
 below)**.
 
 **3. Player Boards:** After creating their Action cards,
