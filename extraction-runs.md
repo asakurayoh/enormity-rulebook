@@ -133,12 +133,12 @@ place Anomalous Reading tokens.
 When you’re done with Location Setup, you may
 proceed to choosing your Loadouts.
 
-> [!TIP]
-> - [Locations And Location Books](locations-and-location-books.md)
-> - [Spawn Point Clusters](spawn-point-clusters.md)
-> - [Loot Dispenser](loot-dispenser.md)
-> - [Fixed And Colored Discoveries](fixed-and-colored-discoveries.md)
-> - [Closed Doors](closed-doors.md)
+> [!TIP]  
+> [Locations And Location Books](locations-and-location-books.md)  
+> [Spawn Point Clusters](spawn-point-clusters.md)  
+> [Loot Dispenser](loot-dispenser.md)  
+> [Fixed And Colored Discoveries](fixed-and-colored-discoveries.md)  
+> [Closed Doors](closed-doors.md)
 
 ## 2. Choosing Loadouts
 
@@ -188,11 +188,11 @@ ready to go!
 **7. Choose Priority Target:** Chosen Spacer receives
 the **Priority Target/Last to Noise Marker** ![Priority Target Icon](img/icon-target.png).
 
-> [!TIP]
-> - [Action Card](action-card.md)
-> - [Action Cards In The Full Game](action-cards-in-the-full-game.md)
-> - [Rubicon Indicators](rubicon-indicators.md)
-> - [Gear, Carrying Slots And Backpack](gear-carrying-slots-and-backpack.md)
+> [!TIP]  
+> [Action Card](action-card.md)  
+> [Action Cards In The Full Game](action-cards-in-the-full-game.md)  
+> [Rubicon Indicators](rubicon-indicators.md)  
+> [Gear, Carrying Slots And Backpack](gear-carrying-slots-and-backpack.md)
 
 ---
 - [**Next:** Extraction Round Sequence](extraction-round-sequence.md)
