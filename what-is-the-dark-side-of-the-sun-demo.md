@@ -69,5 +69,5 @@ end of the Rulebook.
 
 ---
 
-- [Previous: What Is Enormity?](what-is-enormity.md)
+- [**Previous:** What Is Enormity?](what-is-enormity.md)
 - [Back to the table of contents](README.md)

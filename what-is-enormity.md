@@ -26,5 +26,5 @@ than yourself. Something Enormous. Thank you!
 
 ---
 
-- [Next: What Is The Dark Site Od The Sun Demo?](what-is-the-dark-side-of-the-sun-demo.md)
+- [**Next:** What Is The Dark Side Of The Sun Demo?](what-is-the-dark-side-of-the-sun-demo.md)
 - [Back to the table of contents](README.md)
