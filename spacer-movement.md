@@ -64,5 +64,29 @@ per newly revealed spawn point cluster (see
 
 Finally, you can resume your movement.
 
+![Move into new location example](img/new-location-ex.png)  
+*When you are about to move into a new Location,
+first check the location number (1) and find the
+corresponding Location Map in the other Location Book.
+Make sure that the orientation quadrants (2) (found
+in the bottom left corner of the pages) have the same
+alignment and place the new Location adjacent
+to your Location Book, as evenly as possible (3).*
+
+Any Intruders on the newly revealed Location that
+are also in your Light field (see Scouting on p. 18)
+are surprised. Place Surprise Status ![Surprise Status Icon](svg/icon-suprise-status.svg) tokens near
+their bases to reflect that (see Surprised Intruders
+on p. 30).
+
+## Move-Like Ability
+
+If an ability or any other effect allows you to move
+without performing a Move action, it is considere
+a Move-like ability. **Move-like abilities** are resolved
+in the same way as Move actions (unless stated
+otherwise), but they are **not** considered Move actions for the purpose of other abilities and effects.
+
 > [!TIP]  
 > [Board Spaces, Adjacency, Lines, Intersections And Out-Of-Bounds Spaces](board-spaces-adjacency-lines-intersections-and-out-of-bounds-spaces.md)  
+> [Noise Roll](noise-roll.md)  
