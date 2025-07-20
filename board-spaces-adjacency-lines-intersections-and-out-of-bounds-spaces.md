@@ -1,0 +1,1 @@
+# Board Spaces, Adjacency, Lines, Intersections And Out-Of-Bounds Spaces

@@ -45,3 +45,24 @@ directions, never diagonally. They cannot move through Intruders or closed doors
 ![Spacer Movement Example 2](img/spacer-movement-ex2.png)  
 ***Spacer Movement Example:** Spacers cannot move
 through black lines (walls) or onto Out-Of-Bounds spaces.*
+
+## Revealing New Location Maps
+
+If you move to the edge of the board marked with
+a **Connecting Location symbol ![Location Arrow Icon](svg/icon-location-arrow.svg)**, stop your
+movement, find the corresponding Location Map
+in the other Location Book and place it adjacent
+to your Location Book, as evenly as possible.
+The **orientation quadrants ![Orientation Quadrants Icon](svg/icon-orientation-quadran.svg) should have the
+same alignment**. Then, place every Intruder, Gear
+Cache, Engram, Discovery and door marked on the
+new Location map. Place starting Blips.
+**Remember: If you don’t have an explicit Blip
+placement instruction, place exactly one Blip
+per newly revealed spawn point cluster (see
+[Spawn Point Clusters](spawn-point-clusters.md) on p. 10).**
+
+Finally, you can resume your movement.
+
+> [!TIP]  
+> [Board Spaces, Adjacency, Lines, Intersections And Out-Of-Bounds Spaces](board-spaces-adjacency-lines-intersections-and-out-of-bounds-spaces.md)  
