@@ -34,7 +34,7 @@ die, perform a counter attack or even awaken
 some unknown force inside you (see Flatlining
 on p. 30).
 
-Regaining XX![Vitals Icon](svg/icon-vitals.svg)X is difficult, but not impossible,
+Regaining ![Vitals Icon](svg/icon-vitals.svg) is difficult, but not impossible,
 there are abilities and items in the game that
 facilitate this.
 
