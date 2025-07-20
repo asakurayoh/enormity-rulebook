@@ -17,4 +17,4 @@ a different movement action, place different Spacer tokens into the pool etc.). 
 ---
 
 - [**Previous:** Fundamental Concepts](fundamental-concepts.md)
-- [Back to the table of contents](README.md) 
+- [**^** Back to the table of contents](README.md) 

@@ -69,6 +69,6 @@ end of the Rulebook.
 
 ---
 
-- [**Previous:** What Is Enormity?](what-is-enormity.md)
 - [**Next:** Fundamental Concepts](fundamental-concepts.md)
-- [Back to the table of contents](README.md)
+- [**Previous:** What Is Enormity?](what-is-enormity.md)
+- [**^** Back to the table of contents](README.md)
