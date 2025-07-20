@@ -66,3 +66,8 @@ and luck mitigation.
 However, there is still more that Enormity has
 to offer. We’ll highlight those features at the
 end of the Rulebook.
+
+---
+
+- [<< What Is Enormity?](what-is-enormity.md)
+- [Table of contents](README.md)

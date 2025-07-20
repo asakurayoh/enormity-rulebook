@@ -23,3 +23,8 @@ quality narratives, ground-breaking concepts and exquisitely detailed miniatures
 of day without people like You. If Enormity looks like something you think you’d like, consider supporting 
 us on Kickstarter for the best price, exclusive content and an opportunity to be part of something bigger 
 than yourself. Something Enormous. Thank you!
+
+---
+
+- [What Is The Dark Site Od The Sun Demo? >>](what-is-the-dark-side-of-the-sun-demo.md)
+- [Table of contents](README.md)
