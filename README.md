@@ -7,3 +7,4 @@ Rulebook 0.38
 - [Fundamental Concepts](fundamental-concepts.md)
 - [Cardinal Rules](cardinal-rules.md)
 - [Gameplay Overview](gameplay-overview.md)
+- [Spacers](spacers.md)
