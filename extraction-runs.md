@@ -133,7 +133,7 @@ place Anomalous Reading tokens.
 When you’re done with Location Setup, you may
 proceed to choosing your Loadouts.
 
-> [!NOTE]
+> [!TIP]
 > - [Locations And Location Books](locations-and-location-books.md)
 > - [Spawn Point Clusters](spawn-point-clusters.md)
 > - [Loot Dispenser](loot-dispenser.md)
@@ -188,7 +188,7 @@ ready to go!
 **7. Choose Priority Target:** Chosen Spacer receives
 the **Priority Target/Last to Noise Marker** ![Priority Target Icon](img/icon-target.png).
 
-> [!NOTE]
+> [!TIP]
 > - [Action Card](action-card.md)
 > - [Action Cards In The Full Game](action-cards-in-the-full-game.md)
 > - [Rubicon Indicators](rubicon-indicators.md)
