@@ -12,3 +12,8 @@ Rulebook 0.38
 - [Cardinal Rules](cardinal-rules.md)
 - [Gameplay Overview](gameplay-overview.md)
 - [Spacers](spacers.md)
+- [Anatomy Of A Player Board](anatomy-of-a-player-board.md)
+- [Rubicon Stats](rubicon-stats.md)
+  - [Vitals](rubicon-stats.md#vitals)
+  - [Stress](rubicon-stats.md#stress)
+  - [Adrenaline](rubicon-stats.md#adrenaline)
