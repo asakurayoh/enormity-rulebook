@@ -47,13 +47,13 @@ Stress ![Stress Icon](svg/icon-stress.svg) represents your overall mental
 condition.
 
 The most important Stress rule is: **whenever
-you roll dice, you may always gain +1 ![Stress Icon](svg/icon-stress.svg) to
+you roll dice, you may always gain +1 ![Stress Icon](svg/icon-stress.svg "Stress") to
 re-roll any single die once**, even if that dice
 was already re-rolled from another source.
 **Remember this always, this is your ultimate
 lifeline!**
 
-Otherwise, you will gain ![Stress Icon](svg/icon-stress.svg) as a penalty from
+Otherwise, you will gain ![Stress Icon](svg/icon-stress.svg "Stress") as a penalty from
 various sources, or as a cost of high-risk actions.
 
 The first time your Stress ![Stress Icon](svg/icon-stress.svg) and Vitals ![Vitals Icon](svg/icon-vitals.svg) indicators meet or pass each other, you will suffer
