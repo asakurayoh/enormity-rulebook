@@ -31,3 +31,8 @@ Rulebook 0.38
     - [Action Cards In The Full Game](action-cards-in-the-full-game.md)
     - [Rubicon Indicators](rubicon-indicators.md)
     - [Gear, Carrying Slots And Backpack](gear-carrying-slots-and-backpack.md)
+- [Extraction Round Sequence](extraction-round-sequence.md)
+  - [Countdown Phase](countdown-phase.md)
+    - [Countdown Track](countdown-track.md)
+  - [Spacer Phase](spacer-phase.md)
+  - [Intruder Phase](intruder-phase.md)

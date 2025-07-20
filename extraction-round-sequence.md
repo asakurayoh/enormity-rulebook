@@ -18,27 +18,7 @@ well as perform any other abilities once.
 **3. Intruder Phase:** Players resolve Patrols. Each
 Blip and Intruder acts once.
 
-## Countdown Phase
-
-## Spacer Phase
-
-### Playing Action Cards And Performing Actions
-
-#### Adrenaline
-
-#### Actions
-
-##### Exerting
-
-##### Catching Breath
-
-##### Spacer Movement
-
-##### Revealing New Location Maps
-
-##### Move-Like Ability
-
-#### Noise Roll
-
-##### Scouting
-
+---
+- [**Next:** Countdown Phase](countdown-phase.md)
+- [**Previous:** Extraction Runs](extraction-runs.md)
+- [**^** Back to the table of contents](README.md)
