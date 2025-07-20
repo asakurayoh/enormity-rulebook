@@ -47,7 +47,7 @@ spawn a Blip according to normal Blip rules.
 
 Once done, you may proceed to the Spacer Phase.
 
-> [!Tips]  
+> [!TIP]  
 > [Countdown track](countdown-track.md)
 
 ---

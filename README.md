@@ -35,4 +35,7 @@ Rulebook 0.38
   - [Countdown Phase](countdown-phase.md)
     - [Countdown Track](countdown-track.md)
   - [Spacer Phase](spacer-phase.md)
+    - [Playing Action Cards And Performing Actions](playing-action-cards-and-performing-actions.md)
+      - [Actions](actions.md)
+      - [Exerting](exerting.md)
   - [Intruder Phase](intruder-phase.md)
