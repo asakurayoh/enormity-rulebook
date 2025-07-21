@@ -79,7 +79,7 @@ Rulebook 0.38
     - [Unique Specimen](unique-specimen.md)
     - [Flow Of The Intruder Phase](flow-of-the-intruder-phase.md)
       - [1. Intruder Activate](intruder-activate.md)
-        - [A. Establishing Target](establishing-target.md) - TODO
+        - [A. Establishing Target](establishing-target.md)
         - [B. Resolving AI Protocols](resolving-ai-protocols.md) - TODO
           - [Intruder Movement](resolving-ai-protocols.md#intruder-movement) - TODO
           - [Intruder Attacks](resolving-ai-protocols.md#intruder-attacks) - TODO
@@ -99,5 +99,5 @@ Rulebook 0.38
 - [Dice](dice.md)
 - [Blips](blips.md)
 - [Blip Movement](blip-movement.md)
-- [Distance](distance.md) - TODO
+- [Distance](distance.md)
 - [Tac Scanner](tac-scanner.md) - TODO
