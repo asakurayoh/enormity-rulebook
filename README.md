@@ -98,7 +98,7 @@ Rulebook 0.38
 - [Incursions](incursions.md)
   - [Incursion Setup And Loadouts](incursion-setup-and-loadouts.md)
   - [Boss Intruders](boss-intruders.md)
-  - [AI And BP Decks](ai-and-bp-decks.md)- TODO
+  - [AI And BP Decks](ai-and-bp-decks.md)
   - [Signature And Routine](signature-and-routine.md) - TODO
   - [Trait And Status Cards](trait-and-status-cards.md) - TODO
   - [Noise During Incursions](noise-during-incursions.md) - TODO
