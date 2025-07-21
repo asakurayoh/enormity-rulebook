@@ -71,8 +71,8 @@ Rulebook 0.38
     - [Extraction](extraction.md)
     - [Initiating Extraction](initiating-extraction.md)
     - [Extraction And Insertion](extraction-and-insertion.md)
-  - [Intruder Phase](intruder-phase.md) - TODO
-    - [Intruders](intruders.md) - TODO
+  - [Intruder Phase](intruder-phase.md)
+    - [Intruders](intruder-phase.md#intruders)
     - [Anatomy Of An Intruder](anatomy-of-an-intruder.md) - TODO
     - [First Contact](first-contact.md) - TODO
     - [Countdown Escalation](countdown-escalation.md) - TODO
