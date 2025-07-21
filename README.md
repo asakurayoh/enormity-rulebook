@@ -94,7 +94,7 @@ Rulebook 0.38
       - [3. End Of Intruder Phase](end-of-intruder-phase.md)
       - [Zero Hour](zero-hour.md)
         - [Adversary](zero-hour.md#adversary)
-      - [Flash Attacks](flash-attacks.md) - TODO - TODO
+      - [Flash Attacks](flash-attacks.md)
 - [Incursions](incursions.md) - TODO + COMPLETE
 - [Noise Roll](noise-roll.md)
 - [Dice](dice.md)
