@@ -104,7 +104,7 @@ Rulebook 0.38
   - [Noise During Incursions](noise-during-incursions.md)
   - [Boss Intruder Phase](boss-intruder-phase.md)
   - [Boss Intruder Activation](boss-intruder-activation.md)
-  - [Wounding Boss Intruders, And Wounds](wounding-boss-intruders-and-wounds.md) - TODO
+  - [Wounding Boss Intruders, And Wounds](wounding-boss-intruders-and-wounds.md)
   - [Escalation](escalation.md) - TODO
   - [Escalation Chart](escalation-chart.md) - TODO
 - [Noise Roll](noise-roll.md)
