@@ -76,7 +76,7 @@ Rulebook 0.38
     - [Anatomy Of An Intruder](anatomy-of-an-intruder.md)
     - [First Contact](first-contact.md)
     - [Countdown Escalation](countdown-escalation.md)
-    - [Unique Specimen](unique-speciment.md) - TODO
+    - [Unique Specimen](unique-specimen.md)
     - [Flow Of The Intruder Phase](flow-of-the-intruder-phase.md) - TODO
       - [1. Intruder Activate](intruder-activate.md) - TODO
         - [A. Establishing Target](establishing-target.md) - TODO
