@@ -65,14 +65,39 @@ Rulebook 0.38
           - [Burst Attacks](spacer-attacks.md#burst-attacks)
         - [Full Reloading](full-reloading.md)
         - [Fast Reloading](fast-reloading.md)
-      - [End Of Spacer Turn And Milling The Spacer Pool](end-of-spacer-turn-and-milling-the-spacer-pool.md)
-      - [End Of Spacer Phase](end-of-spacer-phase.md)
-      - [Discoveries](discoveries.md)
-      - [Extraction](extraction.md)
-      - [Initiating Extraction](initiating-extraction.md)
-      - [Extraction And Insertion](extraction-and-insertion.md)
-  - [Intruder Phase](intruder-phase.md)
+    - [End Of Spacer Turn And Milling The Spacer Pool](end-of-spacer-turn-and-milling-the-spacer-pool.md)
+    - [End Of Spacer Phase](end-of-spacer-phase.md)
+    - [Discoveries](discoveries.md)
+    - [Extraction](extraction.md)
+    - [Initiating Extraction](initiating-extraction.md)
+    - [Extraction And Insertion](extraction-and-insertion.md)
+  - [Intruder Phase](intruder-phase.md) - TODO
+    - [Intruders](intruders.md) - TODO
+    - [Anatomy Of An Intruder](anatomy-of-an-intruder.md) - TODO
+    - [First Contact](first-contact.md) - TODO
+    - [Countdown Escalation](countdown-escalation.md) - TODO
+    - [Unique Specimen](unique-speciment.md) - TODO
+    - [Flow Of The Intruder Phase](flow-of-the-intruder-phase.md) - TODO
+      - [1. Intruder Activate](intruder-activate.md) - TODO
+        - [A. Establishing Target](establishing-target.md) - TODO
+        - [B. Resolving AI Protocols](resolving-ai-protocols.md) - TODO
+          - [Intruder Movement](resolving-ai-protocols.md#intruder-movement) - TODO
+          - [Intruder Attacks](resolving-ai-protocols.md#intruder-attacks) - TODO
+          - [After Action Effects And After Attack Effects](resolving-ai-protocols.md#after-action-effects-and-after-attack-effects) - TODO
+          - [Window Of Opportunity](resolving-ai-protocols.md#window-of-opportunity) - TODO
+          - [Chain Break](resolving-ai-protocols.md#chain-break) - TODO
+          - [Dying](resolving-ai-protocols.md#dying) - TODO
+          - [Attacks Of Opportunity](resolving-ai-protocols.md#attacks-of-opportunity) - TODO
+          - [Surprised Intruders](resolving-ai-protocols.md#surprised-intruders) - TODO
+        - [C. Resolving Additional Actions](resolving-additional-actions.md) - TODO
+      - [2. Blip Patrols](blip-patrols.md) - TODO
+      - [3. End Of Intruder Phase](end-of-intruder-phase.md) - TODO
+      - [Zero Hour](zero-hour.md)
+      - [Flash Attacks](flash-attacks.md) - TODO - TODO
+- [Incursions](incursions.md) - TODO + COMPLETE
 - [Noise Roll](noise-roll.md)
 - [Dice](dice.md)
 - [Blips](blips.md)
 - [Blip Movement](blip-movement.md)
+- [Distance](distance.md) - TODO
+- [Tac Scanner](tac-scanner.md) - TODO
