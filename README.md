@@ -80,15 +80,15 @@ Rulebook 0.38
     - [Flow Of The Intruder Phase](flow-of-the-intruder-phase.md)
       - [1. Intruder Activate](intruder-activate.md)
         - [A. Establishing Target](establishing-target.md)
-        - [B. Resolving AI Protocols](resolving-ai-protocols.md) - TODO
-          - [Intruder Movement](resolving-ai-protocols.md#intruder-movement) - TODO
-          - [Intruder Attacks](resolving-ai-protocols.md#intruder-attacks) - TODO
-          - [After Action Effects And After Attack Effects](resolving-ai-protocols.md#after-action-effects-and-after-attack-effects) - TODO
-          - [Window Of Opportunity](resolving-ai-protocols.md#window-of-opportunity) - TODO
-          - [Chain Break](resolving-ai-protocols.md#chain-break) - TODO
-          - [Dying](resolving-ai-protocols.md#dying) - TODO
-          - [Attacks Of Opportunity](resolving-ai-protocols.md#attacks-of-opportunity) - TODO
-          - [Surprised Intruders](resolving-ai-protocols.md#surprised-intruders) - TODO
+        - [B. Resolving AI Protocols](resolving-ai-protocols.md)
+          - [Intruder Movement](resolving-ai-protocols.md#intruder-movement)
+          - [Intruder Attacks](resolving-ai-protocols.md#intruder-attacks)
+          - [After Action Effects And After Attack Effects](resolving-ai-protocols.md#after-action-effects-and-after-attack-effects)
+          - [Window Of Opportunity](resolving-ai-protocols.md#window-of-opportunity)
+          - [Chain Break](resolving-ai-protocols.md#chain-break)
+          - [Dying](resolving-ai-protocols.md#dying)
+          - [Attacks Of Opportunity](resolving-ai-protocols.md#attacks-of-opportunity)
+          - [Surprised Intruders](resolving-ai-protocols.md#surprised-intruders)
         - [C. Resolving Additional Actions](resolving-additional-actions.md) - TODO
       - [2. Blip Patrols](blip-patrols.md) - TODO
       - [3. End Of Intruder Phase](end-of-intruder-phase.md) - TODO
