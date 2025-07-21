@@ -77,7 +77,7 @@ Rulebook 0.38
     - [First Contact](first-contact.md)
     - [Countdown Escalation](countdown-escalation.md)
     - [Unique Specimen](unique-specimen.md)
-    - [Flow Of The Intruder Phase](flow-of-the-intruder-phase.md) - TODO
+    - [Flow Of The Intruder Phase](flow-of-the-intruder-phase.md)
       - [1. Intruder Activate](intruder-activate.md) - TODO
         - [A. Establishing Target](establishing-target.md) - TODO
         - [B. Resolving AI Protocols](resolving-ai-protocols.md) - TODO
