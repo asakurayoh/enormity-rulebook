@@ -97,7 +97,7 @@ Rulebook 0.38
       - [Flash Attacks](flash-attacks.md)
 - [Incursions](incursions.md)
   - [Incursion Setup And Loadouts](incursion-setup-and-loadouts.md)
-  - [Boss Intruders](boss-intruders.md)- TODO
+  - [Boss Intruders](boss-intruders.md)
   - [AI And BP Decks](ai-and-bp-decks.md)- TODO
   - [Signature And Routine](signature-and-routine.md) - TODO
   - [Trait And Status Cards](trait-and-status-cards.md) - TODO
