@@ -100,7 +100,7 @@ Rulebook 0.38
   - [Boss Intruders](boss-intruders.md)
   - [AI And BP Decks](ai-and-bp-decks.md)
   - [Signature And Routine](signature-and-routine.md)
-  - [Trait And Status Cards](trait-and-status-cards.md) - TODO
+  - [Trait And Status Cards](trait-and-status-cards.md)
   - [Noise During Incursions](noise-during-incursions.md) - TODO
   - [Boss Intruder Phase](boss-intruder-phase.md) - TODO
   - [Boss Intruder Activation](boss-intruder-activation.md) - TODO
