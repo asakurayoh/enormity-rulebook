@@ -73,7 +73,7 @@ Rulebook 0.38
     - [Extraction And Insertion](extraction-and-insertion.md)
   - [Intruder Phase](intruder-phase.md)
     - [Intruders](intruder-phase.md#intruders)
-    - [Anatomy Of An Intruder](anatomy-of-an-intruder.md) - TODO
+    - [Anatomy Of An Intruder](anatomy-of-an-intruder.md)
     - [First Contact](first-contact.md) - TODO
     - [Countdown Escalation](countdown-escalation.md) - TODO
     - [Unique Specimen](unique-speciment.md) - TODO
