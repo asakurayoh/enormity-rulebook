@@ -100,4 +100,4 @@ Rulebook 0.38
 - [Blips](blips.md)
 - [Blip Movement](blip-movement.md)
 - [Distance](distance.md)
-- [Tac Scanner](tac-scanner.md) - TODO
+- [Tac Scanner](tac-scanner.md)
