@@ -103,7 +103,7 @@ Rulebook 0.38
   - [Trait And Status Cards](trait-and-status-cards.md)
   - [Noise During Incursions](noise-during-incursions.md)
   - [Boss Intruder Phase](boss-intruder-phase.md)
-  - [Boss Intruder Activation](boss-intruder-activation.md) - TODO
+  - [Boss Intruder Activation](boss-intruder-activation.md)
   - [Wounding Boss Intruders, And Wounds](wounding-boss-intruders-and-wounds.md) - TODO
   - [Escalation](escalation.md) - TODO
   - [Escalation Chart](escalation-chart.md) - TODO
