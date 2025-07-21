@@ -51,6 +51,7 @@ Rulebook 0.38
           - [Picking Up Gear](scavenging.md#picking-up-gear)
           - [Picking Up Engrams And Objective Tokens](scavenging.md#picking-up-engrams-and-objective-tokens)
           - [Interacting With Consoles](scavenging.md#interacting-with-consoles)
+        - [Exhausing And Rearming](exhausting-and-rearming.md)
   - [Intruder Phase](intruder-phase.md)
 - [Noise Roll](noise-roll.md)
 - [Dice](dice.md)
