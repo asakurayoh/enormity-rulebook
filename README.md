@@ -90,7 +90,7 @@ Rulebook 0.38
           - [Attacks Of Opportunity](resolving-ai-protocols.md#attacks-of-opportunity)
           - [Surprised Intruders](resolving-ai-protocols.md#surprised-intruders)
         - [C. Resolving Additional Actions](resolving-additional-actions.md)
-      - [2. Blip Patrols](blip-patrols.md) - TODO
+      - [2. Blip Patrols](blip-patrols.md)
       - [3. End Of Intruder Phase](end-of-intruder-phase.md) - TODO
       - [Zero Hour](zero-hour.md)
       - [Flash Attacks](flash-attacks.md) - TODO - TODO
