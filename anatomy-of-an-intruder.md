@@ -3,7 +3,7 @@
 ![Intruder Sheet](img/intruder-sheet.png)  
 *Intruder Sheet*
 
-Intruder Sheet statistics:
+**Intruder Sheet** statistics:
 - **(1) Name:** This is the name of the Intruder
   type you’re facing, as named by the Spacers.
 - **(2) Level:** This shows you the level of the
