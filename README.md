@@ -45,6 +45,8 @@ Rulebook 0.38
           - [Board Spaces, Adjacency, Lines, Intersections And Out-Of-Bounds Spaces](board-spaces-adjacency-lines-intersections-and-out-of-bounds-spaces.md)
         - [Exerting](exerting.md)
         - [Scouting](scouting.md)
+        - [Rationalizing](rationalizing.md)
+        - [Scavenging](scavenging.md)
   - [Intruder Phase](intruder-phase.md)
 - [Noise Roll](noise-roll.md)
 - [Dice](dice.md)

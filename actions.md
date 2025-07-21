@@ -30,7 +30,7 @@ number of spaces orthogonally (not diagonally).
 See the [Spacer Movement](spacer-movement.md) for details.
 
 **Rationalize:** This action allows you to recover 2 ![Stress Icon](svg/icon-stress.svg "Stress").
-**This is an Adrenaline ![Adrenaline Icon](svg/icon-adrenaline.svg) action.** See Rationalizing
+**This is an Adrenaline ![Adrenaline Icon](svg/icon-adrenaline.svg) action.** See [Rationalizing](rationalizing.md)
 on p. 18 for details.
 
 **Rearm:** This action allows you to both unexhaust
@@ -45,12 +45,11 @@ for details).
 
 **Scavenge:** This action allows you to interact with
 a Console or pick up an Engram, Gear Cache or Objective token without spending Spacer Tokens.
-**This is an Adrenaline ![Adrenaline Icon](svg/icon-adrenaline.svg) action.** See Scavenging
-on p. 19 for details.
+**This is an Adrenaline ![Adrenaline Icon](svg/icon-adrenaline.svg) action.** See [Scavenging](scavenging.md) on p. 19 for details.
 
 **Scout:** This action allows you to **scout a Blip
 in your Light’s range**. **This is an Adrenaline ![Adrenaline Icon](svg/icon-adrenaline.svg)
-action.** See Scouting on p. 18 for details.
+action.** See [Scouting](scouting.md) on p. 18 for details.
 
 > [!TIP]  
 > [Catching Breath](catching-breath.md)  
