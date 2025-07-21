@@ -95,7 +95,7 @@ Rulebook 0.38
       - [Zero Hour](zero-hour.md)
         - [Adversary](zero-hour.md#adversary)
       - [Flash Attacks](flash-attacks.md)
-- [Incursions](incursions.md) - TODO
+- [Incursions](incursions.md)
   - [Incursion Setup And Loadouts](incursion-setup-and-loadouts.md)- TODO
   - [Boss Intruders](boss-intruders.md)- TODO
   - [AI And BP Decks](ai-and-bp-decks.md)- TODO
