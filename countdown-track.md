@@ -14,6 +14,6 @@ track; these are resolved during the Countdown Phase.
 
 Besides those immediate effects, the position of the Countdown
 marker influences the entire run; the particular effect is based on the
-level. See the Countdown Level Effects box on p. 17 for more details.
+level. See the [Countdown Level Effects](countdown-level-effects.md) box on p. 17 for more details.
 
 ![Countdown Track](img/countdown-track.png "Countdown Track")
