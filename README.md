@@ -89,7 +89,7 @@ Rulebook 0.38
           - [Dying](resolving-ai-protocols.md#dying)
           - [Attacks Of Opportunity](resolving-ai-protocols.md#attacks-of-opportunity)
           - [Surprised Intruders](resolving-ai-protocols.md#surprised-intruders)
-        - [C. Resolving Additional Actions](resolving-additional-actions.md) - TODO
+        - [C. Resolving Additional Actions](resolving-additional-actions.md)
       - [2. Blip Patrols](blip-patrols.md) - TODO
       - [3. End Of Intruder Phase](end-of-intruder-phase.md) - TODO
       - [Zero Hour](zero-hour.md)
