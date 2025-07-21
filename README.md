@@ -105,7 +105,7 @@ Rulebook 0.38
   - [Boss Intruder Phase](boss-intruder-phase.md)
   - [Boss Intruder Activation](boss-intruder-activation.md)
   - [Wounding Boss Intruders, And Wounds](wounding-boss-intruders-and-wounds.md)
-  - [Escalation](escalation.md) - TODO
+  - [Escalation](escalation.md)
   - [Escalation Chart](escalation-chart.md) - TODO
 - [Noise Roll](noise-roll.md)
 - [Dice](dice.md)
