@@ -44,6 +44,7 @@ Rulebook 0.38
           - [Move-Like Ability](spacer-movement.md#move-like-ability)
           - [Board Spaces, Adjacency, Lines, Intersections And Out-Of-Bounds Spaces](board-spaces-adjacency-lines-intersections-and-out-of-bounds-spaces.md)
       - [Exerting](exerting.md)
+      - [Scouting](scouting.md)
   - [Intruder Phase](intruder-phase.md)
 - [Noise Roll](noise-roll.md)
 - [Dice](dice.md)
