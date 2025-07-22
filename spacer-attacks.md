@@ -33,7 +33,7 @@ are no Intruders in your effective range or you don’t
 have LoS, you cannot perform an attack. Do not
 resolve any further steps of the attack sequence.
 If an Attack ends in this step, it does not cause a
-Chain Break (see p. 29).
+Chain Break (see [Chain Break](resolving-ai-protocols.md#chain-break) p. 29).
 
 > [!TIP]  
 > [Weapons And Support Gear](weapons-and-support-gear.md)  
@@ -126,8 +126,8 @@ many other abilities and effects that influence it.
 
 After you’re done with all the re-rolls, check if you
 have gained a Critical Chance. To do it, you have to
-have **a total of 4+ critical quadrans ![](svg/critical-full.svg)** between
-your dice ![](svg/critical-white.svg) ![](svg/critical.svg) and weapon ![](svg/critical-partial.svg).
+have **a total of 4+ critical quadrans <span class="shadow">![](svg/critical-full.svg)</span>** between
+your dice ![](svg/critical-white.svg) ![](svg/critical.svg) and weapon <span class="shadow">![](svg/critical-partial.svg)</span>.
 
 If you’ve managed to get 4+ critical quadrants, your
 attack may result in a **critical wound**. However,
@@ -144,12 +144,12 @@ higher** than the current **![Antinomy Threshold Icon](svg/icon-antinomy-thresho
 You will find the Intruder’s AT value on its sheet, in a
 space corresponding to the current Countdown level
 or, in the case of a Boss Intruder, directly on the BP
-card (see Wounding Boss, Intruders and Wounds on
+card (see [Wounding Boss, Intruders and Wounds](wounding-boss-intruders-and-wounds.md) on
 p. 34).
 
 If your Total Power is equal to or higher than the Intruder’s AT value, you deal a **Wound**. If you gained a critical
 chance, you deal a **critical wound** instead! Most **baseline** Intruders **die** after being wounded once, but Boss
-Intruders will take much more punishment (see Incursions on p. 32). Some particularly powerful **baseline**
+Intruders will take much more punishment (see [Incursions](incursions.md) on p. 32). Some particularly powerful **baseline**
 Intruders can have multiple Wounds, too; whenever
 you wound a **baseline** Intruder with a **Wound stat ![Wound Stat Icon](svg/wound-stat.svg)**,
 place a Wounded Status ![Status Token Icon](svg/icon-suprise-status.svg) token near their base to
@@ -245,7 +245,7 @@ Suppression tokens have a variety of game effects.
 
 - each Suppression token counts as -1 Speed
 - each Suppression token counts as -1 AT
-- a suppressed Intruder does not perform Attacks of Opportunity (see Attacks of Opportunity on p. 30)
+- a suppressed Intruder does not perform Attacks of Opportunity (see [Attacks of Opportunity](resolving-ai-protocols.md#attacks-of-opportunity) on p. 30)
 
 **Important: Suppression tokens from different
 Attacks do not stack. An Intruder is always Suppressed up to the highest Suppression value (i.e.,
@@ -268,7 +268,7 @@ your current Countdown level**.
 
 Sometimes the Noise box shows a Danger die followed by a slash and an Ammo symbol ![Ammo symbol](svg/icon-ammo.svg). This
 means ‘per shot’ and is used by weapons capable of
-burst fire (see below).
+burst fire ([see below](#burst-attacks)).
 
 **Remember: Whenever you make Noise , Blips
 move towards you. This means that your Attack
