@@ -113,7 +113,7 @@ Rulebook 0.38
 - [Blip Movement](blip-movement.md)
 - [Distance](distance.md)
 - [Tac Scanner](tac-scanner.md)
-- [Bosses, Terrain And Crash](bosses-terrain-and-crash.md) - TODO
+- [Bosses, Terrain And Crash](bosses-terrain-and-crash.md)
 - [Other Rules](other-rules.mdd) - TODO
   - [Conditions](conditions.md) - TODO
   - [Stress Breakdowns](stress-breakdowns.md) - TODO
