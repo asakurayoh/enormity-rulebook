@@ -547,3 +547,226 @@ and **must** be resolved **each time** they are triggered
 unless explicitly stated otherwise. If an ability has
 no trigger, its effect is constant and always active
 as long as this tile is present on the board.
+
+## Bonus Attacks
+
+A Bonus Attack is an effect that allows you to perform an immediate Attack, often outside of your
+turn. Most Bonus Attacks cause a Chain Break (see
+exception below). For a Bonus Attack you may
+declare an exhausted or out of ammo weapon as
+your active weapon. If you do, unexhaust it or gain
+exactly 1 Ammo ![Ammo Icon](svg/icon-ammo.svg) for it, then continue the Attack.
+During a Bonus Attack you may ignore Reprisal Attacks (see p. 22) to this Attack. When the Attack
+ends, continue resolving the Phase that was interrupted by the Bonus Attack. All other restrictions
+and rules of a combat action apply.
+
+## Follow-Up Attacks
+
+A Bonus Attack during a Spacer Attack is also
+called a **Follow-up Spacer Attack** and will be resolved **immediately after** the current Spacer Attack ends. In other words, it **does not** cause a Chain
+Break. All other Bonus Attack rules apply.
+
+## Bonus Actions
+
+When an effect grants you a Bonus Action, take one
+of your Action cards – from your hand or table – and
+play it to resolve any action from it.
+
+## Welding Doors And Breaking Welds
+
+Some game effects will allow you to weld doors.
+
+- Door spaces are designated by door number
+  symbols ![Door Symbol](svg/door-number-symbol.svg).
+- If the effect does not specify a range, you
+  have to be adjacent to a door space to use it.
+- You may weld only open doors.
+- When you weld a door, place a welded door
+  standee on the **door line**.
+- Welded doors cannot be opened with **consoles** or **keycards**.
+- When a Blip moves adjacent to a welded
+  door, it immediately stops its move; Blips
+  starting their turn adjacent to a welded door
+  ignore it.
+- When an Intruder moves adjacent to a
+  welded door, it immediately stops; Intruders
+  starting their turn adjacent to a welded door
+  destroy it – removing it from play!
+- Unless stated otherwise, whenever a game
+  effect allows you to **weld a door**, it also allows you to break a weld, and vice versa.
+
+## Status Tokens
+
+**Enormity** is an enormous game. There are various
+effects, abilities and actions to track; if we wanted
+to create a special token for each of them... we’d
+have a lot of different tokens. Like, a lot. And you’d
+spend a lot of time looking through your game box
+for that single Engine Pressure marker.
+
+![](img/status-token.png)  
+*Status Token. Note that many different effects
+may utilize this token in various ways.*
+
+Instead, we cut down on the types of tokens included in the game, and created the **status tokens**.
+Whenever there’s an effect that doesn’t use any of
+the specific tokens, you will be instructed to use a
+generic token to track it. You can also use generic
+tokens to mark exhausted abilities or cards to conserve table space.
+
+## Disable Tokens
+
+![](img/disable-token.png)  
+*Disable Token* 
+
+When you are instructed to disable ![Disable token](svg/icon-disable-token.svg) a game component place a disable token next to it as a reminder. This component cannot be interacted with in any
+way. **Example:** If a door becomes disabled it cannot
+be opened or destroyed in any way.
+
+## Awakening
+
+In the outer darkness of boundless space, there is
+only despair and torment so utter that the bravest
+of souls shrivels at the mere suggestion and uses
+every fiber of its being to never think of getting
+close to it. Yet, some choose to gaze into it. Embrace it.
+
+Some… are rewarded. Most are dead.
+
+Awakening is a rebound, though it is rare. In the
+demo, there is only one way of obtaining it. When
+you draw a ‘You Died’ Flatline card with an Awakening prompt, roll the Enormity die ![Enormity Die](svg/enormity-die.svg). If you roll a ’10’,
+you awaken.
+
+As soon as you awaken, immediately:
+
+- Perform a Chain Break (see Chain Break on
+p. 29).
+- Gain the **Priority Target/Last to Noise** token. As long as you are awakened, you **cannot lose this token**.
+- Discard any Condition cards and tokens.
+- If you were knocked down, you may **stand up**.
+- Gain 2 **Antinomy Status** ![Status Icon](svg/icon-suprise-status.svg) tokens.
+- You may immediately perform a move 3 action and perform a **Bonus Attack**. These are not regular actions.
+- You gain all other bonuses listed on your
+  Awakening card (In the Demo, there’s only one).
+- If you are ever **knocked down** while awakened, during your turn, you may discard one ![Status Icon](svg/icon-suprise-status.svg "Status")
+  token to immediately stand up.
+- **At the start of your turn**, you must discard
+  one **Antinomy** token. If you cannot discard a
+  token at the start of your turn, **return the Awakening card to the supply**. You lose all bonuses provided by it and stop being awakened.
+
+## Other Places
+
+Some game effects may transport you to a… different place. Alien, eldritch, hostile. In such a case,
+move your miniature to the instructed space. You
+will remain in that space until an effect allows you
+to leave it. Unless otherwise stated, you resolve
+your turns as normal.
+
+## Secrets
+
+**Enormity** is full of alien secrets: secret Locations,
+secret scripts, secrets codes and more. Most of
+this you will have to figure on your own, however
+there are two common types of secrets: **codes** and
+**encryption**.
+
+### Codes
+
+Sometimes, you will find a secret 4-digit number on
+a game element. If you do, you may **immediately**
+find the corresponding paragraph in the Mythos
+Book and resolve it. Unless stated otherwise, each
+secret code paragraph can only be resolved once.
+The paragraph should have a ![Check Icon](svg/check.svg "Check") next to it. If it
+doesn’t, you’ve made a grave mistake! Immediately
+gain ![Black Power Die](svg/power-dice-black.svg "Black Power Die")![Black Power Die](svg/power-dice-black.svg "Black Power Die") Stress!
+
+### Encryption
+
+Sometimes, you will find a text scrambled up with
+red interference, just like on the Scanner cards. This
+text is **encrypted**. You will use the Tac Scanner to
+decode it these scrips. **However, you cannot read
+it unless specifically instructed to do so!**
+
+Most encrypted script will specify how to decode it.
+
+If a script does not have decoding rules or requirements, it is considered **quantum encrypted**. These
+kinds of encryption can be decoded using **quantum
+decryption abilities**. For example, during your mission you may find a Xenoarcheologist Datapad Gear
+card which reads: “Gain 1 Inner Dark and remove
+this card from the game to quantum decrypt a single block of quantum encrypted script.”
+
+## Death And Life Spares
+
+**Enormity** is an adventure game of wonder and
+horror in a vast, alien, dark universe. Death is not
+uncommon. Characters in **Enormity** are mortal
+and can easily die if you are uncareful. Thankfully,
+the technology of the future has progressed to
+the point people have Spares; soulless clones into
+which their consciousness backup can be uploaded
+if worst comes to worst. You are far from home,
+though, and so have a limited amount of Spares
+with you (depending on game difficulty, 1-3), after
+which **True Death** occurs and you need to create a
+new character.
+
+## Difficulty Modes
+
+Besides allowing you to tackle its challenges in a series of one-shots or as a campaign, **Enormity** offers
+two distinct difficulty modes. The Normal Mode
+is recommended for new players, and people who
+want a cinematic, more forgiving experience.
+
+Veteran Spacer Mode offers a higher degree of challenge, and a true roguelite experience.
+
+If you’re unfamiliar with Into the Unknown games,
+we recommend you start your first game on Normal
+Mode.
+
+### Normal Mode features
+
+- You start the game with 8 Life Spares (see
+  **Life Spares** above).
+- You start the game with an unlimited number of Time Crystals (see below); this means
+  you can replay any Extraction Run or Incursion that didn’t go your way; note that
+  if you decide to keep the result of a Run or
+  Incursion, you have to live with their consequences!
+- You have to defeat your Parsec’s Boss before advancing to the next Parsec (see Persistent Worlds and Campaigns); after failing
+  to defeat a Boss, you may go on an extra
+  Extraction Run that does not progress the
+  Course Deck.
+
+### Veteran Spacer Mode features
+
+- You start the game with 4 Life Spares
+- You start the game with 2 Time Crystals
+- You **do not** have to defeat your Parsec’s
+  Boss before advancing to the next Parsec;
+  in other words, the game mercilessly progresses into the next Parsec and towards
+  a campaigns end (if you’re playing a campaign).
+- In the **Full Game**, the Veteran Spacer Mode
+  will include additional changes and deeper
+  mechanics.
+
+## Time Crystals
+
+Time Crystals are rare paracausal resources that
+allow you to defy the otherwise inexorable march
+of time. Right after you finish an Extraction Run or
+Incursion, you may, as a group, decide to spend one
+Time Crystal to replay that Run or Incursion, without suffering any of its consequences: do not lose
+Lives, gain rewards and penalties or resolve End of
+Run/Incursion effects. Simply restore the game to
+the state from before the Run/Incursion. You can
+freely change your character loadouts and prepared
+Command Abilities before you attempt the Run/
+Incursion again. You may even decide to tackle a
+different Run (in a different Location) or Incursion, if
+available.
+
+In a Normal Mode game, Time Crystals are unlimited (see Difficulty modes). However, in Veteran
+Spacer Mode, Time Crystals are an extremely rare
+resource and should not be spent lightly.

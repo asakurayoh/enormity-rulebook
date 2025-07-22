@@ -131,18 +131,18 @@ Rulebook 0.38
   - [Locations](other-rules.md#locations)
   - [Coordinates](other-rules.md#coordinates)
   - [Terrain](other-rules.md#terrain)
-  - [Bonus Attacks](other-rules.md#)  - TODO
-  - [Follow-Up Attacks](other-rules.md#)  - TODO
-  - [Bonus Actions](other-rules.md#)  - TODO
-  - [Welding Doors And Breaking Welds](other-rules.md#)  - TODO
-  - [Status Tokens](other-rules.md#)  - TODO
-  - [Disable Tokens](other-rules.md#)  - TODO
-  - [Awakening](other-rules.md#)  - TODO
-  - [Other Places](other-rules.md#)  - TODO
-  - [Secrets](other-rules.md#)  - TODO
-  - [Death And Life Spares](other-rules.md#)  - TODO
-  - [Difficulty Modes](other-rules.md#)  - TODO
-  - [Time Crystals](other-rules.md#)  - TODO
+  - [Bonus Attacks](other-rules.md#bonus-actions)
+  - [Follow-Up Attacks](other-rules.md#follow-up-attacks)
+  - [Bonus Actions](other-rules.md#bonus-actions)
+  - [Welding Doors And Breaking Welds](other-rules.md#welding-doors-and-breaking-welds)
+  - [Status Tokens](other-rules.md#status-tokens)
+  - [Disable Tokens](other-rules.md#disable-tokens)
+  - [Awakening](other-rules.md#awakening)
+  - [Other Places](other-rules.md#other-places)
+  - [Secrets](other-rules.md#secrets)
+  - [Death And Life Spares](other-rules.md#death-and-life-spares)
+  - [Difficulty Modes](other-rules.md#difficulty-modes)
+  - [Time Crystals](other-rules.md#time-crystals)
 - [In the Full Game](in-the-full-game.md) - TODO
   - [Character Progression](in-the-full-game.md) - TODO
   - [Safe Havens](in-the-full-game.md) - TODO
