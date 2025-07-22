@@ -23,18 +23,18 @@ be in the middle of the reading).
 The reading also shows **Intruder symbols ![Intruder Symbol](svg/intruder-symbol.svg)**. The
 **number of symbols in a quadrant indicates the
 speed** of Blips patrolling that quadrant (i.e., if the
-quadrant north-western of the Spacer shows 3 ![Intruder Symbol](svg/intruder-symbol.svg "Intruder Symbols),
+quadrant north-western of the Spacer shows 3 ![Intruder Symbol](svg/intruder-symbol.svg "Intruder Symbols"),
 all Blips in that quadrant will move 3 intersections
 each).
 
 Patrolling Blip movement follows a few simple rules:
 
-- Start with the Blip closest to the Spacer
+- Start with the Blip closest to the ![Priority Target Symbol](svg/icon-target.svg "Priority Target") Spacer
   and continue in this manner
 - Unless otherwise stated, patrolling Blips
   move in a straight line, in the direction of
-  their patrol arrows (notably, this changes
-  when the Countdown level hits black)
+  their patrol arrows ![Patrol Arrow Symbol](svg/patrol-arrow.svg) (notably, this changes
+  when the Countdown level hits **black**)
 - Each Blip moves a number of intersections
   equal to the number of Intruder symbols in
   their quadrant of the scanner screen
