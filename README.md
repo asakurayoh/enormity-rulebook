@@ -114,35 +114,35 @@ Rulebook 0.38
 - [Distance](distance.md)
 - [Tac Scanner](tac-scanner.md)
 - [Bosses, Terrain And Crash](bosses-terrain-and-crash.md)
-- [Other Rules](other-rules.mdd) - TODO
-  - [Conditions](conditions.md) - TODO
-  - [Stress Breakdowns](stress-breakdowns.md) - TODO
-  - [Skill Tests](skill-tests.md) - TODO
-  - [Abilities](abilities.md) - TODO
-  - [Passive Abilities](passive-abilities.md) - TODO
-  - [Triggered Abilities](triggered-abilities.md) - TODO
-  - [Reactions](reactions.md) - TODO
-  - [Ability Costs And Free Abilities](abilities-costs-and-free-abilities.md) - TODO
-  - [Keywords](keywords.md) - TODO
-    - [Keywords List](keywords.md#keywords-list) - TODO
-  - [Knockback](knockback.md) - TODO
-  - [Knockdown](knockdown.md) - TODO
-  - [Stratagems](stratagems.md) - TODO
-  - [Locations](locations.md) - TODO
-  - [Coordinates](coordinates.md) - TODO
-  - [Terrain](terrain.md) - TODO
-  - [Bonus Attacks](bonus-attacks.md) - TODO
-  - [Follow-Up Attacks](follow-up-attacks.md) - TODO
-  - [Bonus Actions](bonus-actions.md) - TODO
-  - [Welding Doors And Breaking Welds](welding-doors-and-breaking-welds.md) - TODO
-  - [Status Tokens](status-tokens.md) - TODO
-  - [Disable Tokens](disable-tokens.md) - TODO
-  - [Awakening](awakening.md) - TODO
-  - [Other Places](other-places.md) - TODO
-  - [Secrets](secrets.md) - TODO
-  - [Death And Life Spares](death-and-life-spares.md) - TODO
-  - [Difficulty Modes](difficulty-modes.md) - TODO
-  - [Time Crystals](time-crystals.md) - TODO
+- [Other Rules](other-rules.md)
+  - [Conditions](other-rules.md#conditions)
+  - [Stress Breakdowns](other-rules.md#stress-breakdowns)
+  - [Skill Tests](other-rules.md#skill-tests)
+  - [Abilities](other-rules.md#abilities)
+  - [Passive Abilities](other-rules.md#passive-abilities)
+  - [Triggered Abilities](other-rules.md#triggered-abilities)
+  - [Reactions](other-rules.md#reactions)
+  - [Ability Costs And Free Abilities](other-rules.md#ability-costs-and-free-abilities)
+  - [Keywords](other-rules.md#keywords)
+    - [Keywords List](other-rules.md#keywords-list)
+  - [Knockback](other-rules.md#)  - TODO
+  - [Knockdown](other-rules.md#)  - TODO
+  - [Stratagems](other-rules.md#)  - TODO
+  - [Locations](other-rules.md#)  - TODO
+  - [Coordinates](other-rules.md#)  - TODO
+  - [Terrain](other-rules.md#)  - TODO
+  - [Bonus Attacks](other-rules.md#)  - TODO
+  - [Follow-Up Attacks](other-rules.md#)  - TODO
+  - [Bonus Actions](other-rules.md#)  - TODO
+  - [Welding Doors And Breaking Welds](other-rules.md#)  - TODO
+  - [Status Tokens](other-rules.md#)  - TODO
+  - [Disable Tokens](other-rules.md#)  - TODO
+  - [Awakening](other-rules.md#)  - TODO
+  - [Other Places](other-rules.md#)  - TODO
+  - [Secrets](other-rules.md#)  - TODO
+  - [Death And Life Spares](other-rules.md#)  - TODO
+  - [Difficulty Modes](other-rules.md#)  - TODO
+  - [Time Crystals](other-rules.md#)  - TODO
 - [In the Full Game](in-the-full-game.md) - TODO
   - [Character Progression](in-the-full-game.md) - TODO
   - [Safe Havens](in-the-full-game.md) - TODO
