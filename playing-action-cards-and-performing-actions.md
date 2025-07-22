@@ -4,7 +4,7 @@ During your turn, you will spend most of your time
 playing **Action cards** to perform **actions**. You may
 play up to 3 cards, which coincidentally is the number of cards you have, and in most circumstances
 you will want to play all three. Note that your Action
-cards are double-sided (see Action Card on p. 11), so
+cards are double-sided (see [Action Card](action-card.md) on p. 11), so
 you will still use only 3 out of 6 possibilities.
 
 Some Action cards allow you to perform **a single
@@ -19,10 +19,10 @@ choose which action to resolve after play a card.
 ![Action Cards Sequense](img/action-cards-sequense.png)
 
 *At the beginning of your turn take all Action cards into
-your hand (1). Before playing an Action card, you must
-determine which side to resolve (2). To keep track of the
+your hand <span class="red-round">1</span>. Before playing an Action card, you must
+determine which side to resolve <span class="red-round">2</span>. To keep track of the
 played Action cards by placing them on the table in front
-of you, keeping the resolved side facing up (3). They will
+of you, keeping the resolved side facing up <span class="red-round">3</span>. They will
 stat on the table until the beginning of your next turn.*
 
 ## Adrenaline
@@ -33,7 +33,7 @@ an action, immediately raise your ![Adrenaline Icon](svg/icon-adrenaline.svg "Ad
 Rubicon Bonuses that are to the left of the Adrenaline Indicator**, both on the Character and Suit parts
 of the player board; this will usually involve placing
 Spacer tokens into the Incoming Spacer Pool
-(see Spacer Pool and Spacer Tokens on p. 8).
+(see [Spacer Pool and Spacer Tokens](spacer-pool-and-spacer-tokens.md) on p. 8).
 
 ---
 
