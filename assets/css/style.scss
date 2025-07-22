@@ -5,10 +5,14 @@
 
 
 body{
-    background: #f0eff1;
+    background: #d6d6d6;
 }
 
 .markdown-body{
+    max-width: 800px;
+    background: #f0eff1;
+    padding: 30px 40px !important;
+
     h1, h2 {
         border-bottom-color: #d9d9d9
     }
