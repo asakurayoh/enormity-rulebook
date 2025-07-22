@@ -2,6 +2,10 @@
 
 Rulebook 0.38
 
+> **This is a Demo, containing limited game content. This Rulebook is
+> a work-in-progress representation of the finished product,
+> and may be subject to change throughout production.**
+
 - [What Is Enormity?](what-is-enormity.md)
 - [What Is The Dark Side Of The Sun Demo?](what-is-the-dark-side-of-the-sun-demo.md)
 - [Fundamental Concepts](fundamental-concepts.md)
@@ -143,15 +147,15 @@ Rulebook 0.38
   - [Death And Life Spares](other-rules.md#death-and-life-spares)
   - [Difficulty Modes](other-rules.md#difficulty-modes)
   - [Time Crystals](other-rules.md#time-crystals)
-- [In the Full Game](in-the-full-game.md) - TODO
-  - [Character Progression](in-the-full-game.md) - TODO
-  - [Safe Havens](in-the-full-game.md) - TODO
-  - [Resources, Crafting, Technology](in-the-full-game.md) - TODO
-  - [Enormity Powers](in-the-full-game.md) - TODO
-  - [Metroidvania-Style Map](in-the-full-game.md) - TODO
-  - [Story and Storylines](in-the-full-game.md) - TODO
-  - [Campaigns](in-the-full-game.md) - TODO
-  - [More Intruders, More Levels, And Evolution](in-the-full-game.md) - TODO
-  - [More Objectives, Combat Runs, Stealth Runs And More](in-the-full-game.md) - TODO
-  - [More Of Everything](in-the-full-game.md) - TODO
-  - [Join Us!](in-the-full-game.md) - TODO
+- [In the Full Game](in-the-full-game.md)
+  - [Character Progression](in-the-full-game.md#character-progression)
+  - [Safe Havens](in-the-full-game.md#safe-havens)
+  - [Resources, Crafting, Technology](in-the-full-game.md#resources-crafting-technology)
+  - [Enormity Powers](in-the-full-game.md#enormity-powers)
+  - [Metroidvania-Style Map](in-the-full-game.md#metroidvania-style-map)
+  - [Story and Storylines](in-the-full-game.md#story-and-storylines)
+  - [Campaigns](in-the-full-game.md#campaigns)
+  - [More Intruders, More Levels, And Evolution](in-the-full-game.md#more-intruders-more-levels-and-evolution)
+  - [More Objectives, Combat Runs, Stealth Runs And More](in-the-full-game.md#more-objectives-combats-runs-stealth-runs-and-more)
+  - [More Of Everything](in-the-full-game.md#more-of-everything)
+  - [Join Us!](in-the-full-game.md#join-us)
