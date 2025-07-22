@@ -8,6 +8,7 @@ Rulebook 0.38
 
 - [What Is Enormity?](what-is-enormity.md)
 - [What Is The Dark Side Of The Sun Demo?](what-is-the-dark-side-of-the-sun-demo.md)
+- [What's In A Font?](what-in-a-font.md)
 - [Fundamental Concepts](fundamental-concepts.md)
   - [Inverted Combat Paradigm](fundamental-concepts.md#inverted-combat-paradigm)
   - [Hard Co-op](fundamental-concepts.md#hard-co-op)
