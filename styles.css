@@ -1,3 +1,12 @@
+body{
+    background: #f0eff1;
+}
+
+
+img{
+    vertical-align: bottom;
+}
+
 .red-round{
     background: #c92421;
     display: inline-flex;
@@ -9,4 +18,16 @@
     justify-content: center;
     align-items: center;
     margin: -1em 0;
+}
+
+.markdown-body ul, .markdown-body ol {
+    padding-left: 1.1em;
+}
+
+.markdown-body ol ::marker {
+    font-weight: bold;
+}
+
+.markdown-body li+li{
+    margin-top: 16px;
 }

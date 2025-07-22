@@ -70,8 +70,8 @@ the spaceship Sheperd and influence all future
 games by unlocking new areas of the ship, introducing new deadly Intruders, modifying the ever-expanding loot pool, changing the game spaces with
 stickers and new permanent rules, and more.
 
-> Note: There is nothing stopping you from hard-resetting the game to a default state and starting
-> over (even the stickers are reusable).
+**Note: There is nothing stopping you from hard-resetting the game to a default state and starting
+over (even the stickers are reusable).**
 
 ## Campaigns
 
