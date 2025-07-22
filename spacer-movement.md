@@ -24,10 +24,10 @@ apply to all Move actions:
 - You must end your movement on an empty
   space (a space that does not contain Obstacles, Intruders or other Spacers).
 - Most Move actions **make Noise ![Noise Icon](svg/icon-noise.svg)** (see
-  Noise Roll on p. 16).
+  [Noise Roll](noise-roll.md) on p. 16).
 - If a space shows a Location arrow <span class="shadow">![Location Arrow Icon](svg/icon-location-arrow.svg)</span>, stop
   on that space and reveal a new Location
-  Map (see p. 15).
+  Map (see [Revealing New Location Map](#revealing-new-location-maps) p. 15).
 - If a space shows a forced direction arrow <span class="shadow">![Forced Direction Arrow](svg/icon-forced-direction-arrow.svg)</span>, 
   that space enforces your movement
   direction; if you’re on that space, you can
@@ -66,17 +66,17 @@ Finally, you can resume your movement.
 
 ![Move into new location example](img/new-location-ex.png)  
 *When you are about to move into a new Location,
-first check the location number (1) and find the
+first check the location number <span class="red-round">1</span> and find the
 corresponding Location Map in the other Location Book.
-Make sure that the orientation quadrants (2) (found
+Make sure that the orientation quadrants <span class="red-round">2</span> (found
 in the bottom left corner of the pages) have the same
 alignment and place the new Location adjacent
-to your Location Book, as evenly as possible (3).*
+to your Location Book, as evenly as possible <span class="red-round">3</span>.*
 
 Any Intruders on the newly revealed Location that
-are also in your Light field (see Scouting on p. 18)
+are also in your Light field (see [Scouting](scouting.md) on p. 18)
 are surprised. Place Surprise Status ![Surprise Status Icon](svg/icon-suprise-status.svg) tokens near
-their bases to reflect that (see Surprised Intruders
+their bases to reflect that (see [Surprised Intruders](resolving-ai-protocols.md#surprised-intruders)
 on p. 30).
 
 ## Move-Like Ability
