@@ -39,6 +39,10 @@ body{
         min-width: 1.4em;
     }
 
+    img[src$="/black.svg"], img[src$="/white.svg"],img[src$="/red.svg"] {
+        min-height: 1.4em;
+    }
+
     hr{
         height: 1px;
         background-color: #d9d9d9;
