@@ -22,14 +22,14 @@ During an Extraction Run, each player controls
 a Spacer, while the Intruders are controlled by a set
 of automated mechanics, i.e. the game itself.
 You want to complete your goals and extract (see
-Extraction on p. 24), while the Intruders will try
+[Extraction](extraction.md) on p. 24), while the Intruders will try
 to eliminate you.
 
 An extraction run is considered a **success** if at least
 one Spacer makes it out alive (extracts). Don’t worry,
-death is not necessarily final (see Death and Life Spares
+death is not necessarily final (see [Death and Life Spares](other-rules.md#death-and-life-spares)
 on p. 42) and as long as you have time crystals, you
-may repeat a **failed run** (see Time Crystals on p. 42).
+may repeat a **failed run** (see [Time Crystals](other-rules.md#time-crystals) on p. 42).
 Still, in the full game, a campaign can very much end
 in failure if you allow multiple defeats to accrue.
 
@@ -93,7 +93,7 @@ then shuffle those decks and place them near the
 Countdown Track.
 
 8. **Blips and Intruders:** If the scenario doesn’t explicitly show **starting Blip placement** intersections
-(see the Board Spaces, Adjacency, Lines, Intersections and Out-of-Bounds Spaces box below), place
+(see the [Board Spaces, Adjacency, Lines, Intersections and Out-of-Bounds Spaces](board-spaces-adjacency-lines-intersections-and-out-of-bounds-spaces.md) box below), place
 **exactly one Blip per spawn point cluster** (see
 [Spawn Point Clusters](spawn-point-clusters.md) on p. 10), with the direction
 arrow pointing towards most Spacers. Place Blips
