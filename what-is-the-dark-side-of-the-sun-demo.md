@@ -40,7 +40,7 @@ Those will be corrected before production.
 
 The difficulty of the Demo has been set at a certain
 level. The final game will offer options to adjust the
-difficulty (see the **In the Full Game** section at the
+difficulty (see the [**In the Full Game** section](in-the-full-game.md) at the
 back of the Rulebook for more details). If you’re up
 for a challenge, try the veteran Mothman Battle
 (10 Wounds).
