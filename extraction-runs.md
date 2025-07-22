@@ -54,7 +54,7 @@ presented in this section:
 
 ## 1. Preparing Location Setup
 
-**1. Open the Location and Intruder Books:** Based on
+1. **Open the Location and Intruder Books:** Based on
 your Course card or chosen one-off Location, open
 the appropriate Location Book on the indicated
 page(s). Based on the Location’s ecology, open the
@@ -62,50 +62,47 @@ Intruder Book on the appropriate Intruder’s page.
 Open the Mythos Book on the page indicated in the
 Location Book.
 
-**2. Unique Specimen cards:** Take the Unique
+2. **Unique Specimen cards:** Take the Unique
 Specimen cards corresponding to the current
 Intruder, shuffle them facedown and place near
 the Intruder page.
 
-**3. Spacer tokens and Power dice:** Place the Spacer
+3. **Spacer tokens and Power dice:** Place the Spacer
 Pool board near the Location book. Place the Spacer
 tokens and Power dice within reach of all players.
 
-**4. Create Blip Pool:** Take all the Blips and shuffle
+4. **Create Blip Pool:** Take all the Blips and shuffle
 them facedown. This is the Blip Pool.
 
-**5. Engram Pool:** Take all the Engrams and shuffle
+5. **Engram Pool:** Take all the Engrams and shuffle
 them in an opaque container. This is the Engram Pool.
-
-**6. Countdown Track:** Place the Countdown Track
-below the Location Book (see [Countdown Track](countdown-track.md) on
-p. 13) and place the Countdown Marker on space
-‘9’ of the track. Place the Extraction Marker on the
-space specified by your current Course 
-
-*(note: in the Demo, you will find this space in the
-Mythos Book, in the section corresponding
-to your current mission)*.
-
+6. **Countdown Track:** Place the Countdown Track
+  below the Location Book (see [Countdown Track](countdown-track.md) on
+  p. 13) and place the Countdown Marker on space
+  ‘9’ of the track. Place the Extraction Marker on the
+  space specified by your current Course<br>  
+  **(note: in the Demo, you will find this space in the
+  Mythos Book, in the section corresponding
+  to your current mission)**.
+  
 The rest of setup proceeds according to the instructions you will find in the Mythos Book:
 
-**7. Scanner Decks:** Take the Scanner cards, divide
+7. **Scanner Decks:** Take the Scanner cards, divide
 them by color into three decks (white, red and black),
 then shuffle those decks and place them near the
 Countdown Track.
 
-**8. Blips and Intruders: **If the scenario doesn’t explicitly show **starting Blip placement** intersections
+8. **Blips and Intruders:** If the scenario doesn’t explicitly show **starting Blip placement** intersections
 (see the Board Spaces, Adjacency, Lines, Intersections and Out-of-Bounds Spaces box below), place
 **exactly one Blip per spawn point cluster** (see
 [Spawn Point Clusters](spawn-point-clusters.md) on p. 10), with the direction
 arrow pointing towards most Spacers. Place Blips
 on the indicated spaces of the Countdown Track,
-if any. Place any Intruders on the indicated spaces.
-
+if any. Place any Intruders on the indicated spaces.  
 *Note: The first Dark Side of the Sun run shows starting Blip
 placement!*
 
-**9. Loot Deck, Loot Caches and Engrams:** First,
+9. **Loot Deck, Loot Caches and Engrams:** First,
 take the appropriate Loot Deck (each section of the
 ship has its own unique deck!) out of its envelope,
 place the Loot Cache Lid card to the side, shuffle the
@@ -114,19 +111,18 @@ Loot Cache Lid card on top. Place the Loot Cache
 tokens on indicated spaces. Draw random Engram
 tokens and place them on the indicated spaces.
 
-**10. Closed Doors:** Place the Closed Door standees
+10. **Closed Doors:** Place the Closed Door standees
 on indicated spaces.
 
-**11. Discoveries:** Place Discovery tokens on the
+11. **Discoveries:** Place Discovery tokens on the
 indicated spaces, faceup or facedown, depending
 on the Setup Instructions. If the Setup instructions
 refer to a Discovery card deck, place the deck near
-the Countdown Track.
+the Countdown Track.<br>  
+**Note that in the first demo run you only setup
+fixed Discoveries!**
 
-*Note that in the first demo run you only setup
-fixed Discoveries!*
-
-**12. Other components:** At this point place any other components mentioned in the location setup on
+12. **Other components:** At this point place any other components mentioned in the location setup on
 the indicated spaces, intersections or areas. This
 may include special Objective tokens or additional
 Extraction Points. For example, in the Demo you will
@@ -147,48 +143,44 @@ proceed to choosing your Loadouts.
 Knowing what you’re up against, you may choose
 your Loadouts.
 
-**1. Characters and Suits:** Each player takes a *Memento* card and a rubicon connector, and then selects their oversized character card and their suit
+1. **Characters and Suits:** Each player takes a *Memento* card and a rubicon connector, and then selects their oversized character card and their suit
 card. They then take the standee or plastic figure
 that match the character/suit.
 
-**2. Action Cards:** Each Character card and each Suit
+2. **Action Cards:** Each Character card and each Suit
 card provides players with different **partial Action
 cards**. To find your partial Action cards, simply flip
 your Character and Suit cards: on the back you will
 find a list of three partial action cards, for a total of
-6 cards.
-
+6 cards.<br>  
 Each player takes their 6 partial Action cards and
 combines them, to create **three double-sided
 sleeved Action cards (see the [Action Cards](action-card.md) box
 below)**.
 
-**3. Player Boards:** After creating their Action cards,
+3. **Player Boards:** After creating their Action cards,
 players connect their Character and Suit cards using the rubicon connector to create a **player board**.
-They then take the three **special plastic indicators**, and place them on their player board.
-
+They then take the three **special plastic indicators**, and place them on their player board.<br>  
 In the demo, Vitals ![Vitals Icon](svg/icon-vitals.svg) start on space ‘9’, Adrenaline ![Adrenaline Icon](svg/icon-adrenaline.svg) 
 starts on space ‘0’, and the starting space of
 Stress ![Stress Icon](svg/icon-stress.svg) is indicated on the Character card.
 
-**4. Gear:** Once your Spacer is ready, choose the
+4. **Gear:** Once your Spacer is ready, choose the
 Gear you will take with you on the run, noting the
-number of Gear you can carry in hand ![Hand Slots Icon](svg/icon-hand-slots.svg), as support ![Slots Icon](svg/icon-slots.svg "Slots"), and in your backpack ![Backpack Icon](svg/icon-backpack.svg "Slots") (this is usually dictated by your Suit card).
+number of Gear you can carry in hand ![Hand Slots Icon](svg/icon-hand-slots.svg), as support ![Slots Icon](svg/icon-slots.svg "Slots"), and in your backpack ![Backpack Icon](svg/icon-backpack.svg "Slots") (this is usually dictated by your Suit card).<br>  
+In the demo’s first run, your Loadouts have been
+chosen for you!
 
-*In the demo’s first run, your Loadouts have been
-chosen for you!*
-
-**5. Stratagems:** Choose 2 from your available Stratagem cards and place them near the Location Book,
-facedown.
-
+5. **Stratagems:** Choose 2 from your available Stratagem cards and place them near the Location Book,
+facedown.<br>  
 *For the demo’s first run, we suggest you use **Tactical Redeployment** and **Morpheus Protocol**.*
 
-**6. Place Spacers on the board:** Finally, place your
+6. **Place Spacers on the board:** Finally, place your
 Spacer standees or miniatures on the spaces indicated in the Mythos Book. Once you’re done, you’re
 ready to go!
 
-**7. Choose Priority Target:** Chosen Spacer receives
-the **Priority Target/Last to Noise Marker** ![Priority Target Icon](img/icon-target.png).
+7. **Choose Priority Target:** Chosen Spacer receives
+the **Priority Target/Last to Noise Marker** ![Priority Target Icon](svg/icon-target.svg).
 
 > [!TIP]  
 > [Action Card](action-card.md)  
