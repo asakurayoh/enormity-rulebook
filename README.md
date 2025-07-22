@@ -106,7 +106,7 @@ Rulebook 0.38
   - [Boss Intruder Activation](boss-intruder-activation.md)
   - [Wounding Boss Intruders, And Wounds](wounding-boss-intruders-and-wounds.md)
   - [Escalation](escalation.md)
-  - [Escalation Chart](escalation-chart.md) - TODO
+  - [Escalation Chart](escalation-chart.md)
 - [Noise Roll](noise-roll.md)
 - [Dice](dice.md)
 - [Blips](blips.md)
