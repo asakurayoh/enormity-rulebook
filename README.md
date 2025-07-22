@@ -125,9 +125,9 @@ Rulebook 0.38
   - [Ability Costs And Free Abilities](other-rules.md#ability-costs-and-free-abilities)
   - [Keywords](other-rules.md#keywords)
     - [Keywords List](other-rules.md#keywords-list)
-  - [Knockback](other-rules.md#)  - TODO
-  - [Knockdown](other-rules.md#)  - TODO
-  - [Stratagems](other-rules.md#)  - TODO
+  - [Knockback](other-rules.md#knockback)
+  - [Knockdown](other-rules.md#knockdown)
+  - [Stratagems](other-rules.md#stratagems)
   - [Locations](other-rules.md#)  - TODO
   - [Coordinates](other-rules.md#)  - TODO
   - [Terrain](other-rules.md#)  - TODO

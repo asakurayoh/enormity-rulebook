@@ -254,7 +254,7 @@ Reload action.
 **Indestructible:** Terrain keyword. This Terrain tile
 cannot be destroyed in any way. It invalidates Terrain placement on top of it.
 
-**Knockback X:** [See box](knockback.md).
+**Knockback X:** [See box](#knockback).
 
 **Knockdown:** Gain the *Knockdown* Condition card,
 *Falling down* side up, and place your miniature on
@@ -313,3 +313,64 @@ The attack is considered a melee attack.
 **Reflex:** Move up to 1 space.
 
 **Warn:** Move another Spacer up to 1 space.
+
+## Knockback
+
+Move the affected miniature X spaces directly away from the source of Knockback in a
+straight line (or in a specified direction in case of directional Knockback; see examples on
+the next page).
+
+- If Knockback is caused by an Attack, it affects the Target only if it is within the Attack’s effective range (adjacent for normal Attacks, in the designated zone for Zone
+  Attacks, within X spaces for Ranged X Attacks, etc.).
+- If Knockback is caused by an Intruder Response, it affects the Attacker only if they
+  are within adjacency.
+- Knocked back Spacers ignore all Terrain tiles they move through except Obstacles.
+- If a Spacer would be forced to move through a Destructible Obstacle Terrain tile,
+  stop its movement, remove the Terrain tile from the board and place the Spacer in
+  its space, then that Spacer suffers **Crash**.
+- If a Spacer would be forced to move through an Indestructible Obstacle, it stops on
+  an adjacent space right before the Obstacle, then suffers **Crash**.
+- Knocked back Intruders can move through any Terrain tiles and miniatures without
+  hindrance. They destroy any Terrain tiles (except Indestructible) they move through
+  and cause Crash and Unavoidable Knockback to Spacers as normal.
+- If the affected miniature is knocked back into a Board Edge, it continues to move
+  along the edge, if possible, away from the source of Knockback.
+
+## Knockdown
+
+Knockdown is a special Condition.
+When you get knocked down, you put
+your miniature on its side and take a
+*Knockdown (falling down)* card. While
+you have the *Knockdown (falling down)*
+card, you cannot perform any actions,
+reactions or use abilities, unless stated otherwise. At the end of your next
+turn, you flip the card to the *Knockdown
+(standing up)* side. All Spacers with a
+*Knockdown (standing up)* card stand up
+at the start of their next turn. If for
+whatever reason this card is discarded,
+stand up too.
+
+## Stratagems
+
+Stratagems are powerful team abilities. Some
+Stratagems are unlocked by Spacer classes, while
+others will be gained during play. During an Extraction Run or Incursion setup, you will choose
+2 Stratagems to use.
+
+Stratagems start play with the requirement side
+up. Once the requirement is met, the card is immediately flipped and becomes ready to use. Once it
+has been used the indicated number of times, it is
+again flipped to the requirement side. A Stratagem
+card can be flipped in this way several times during
+a single session!
+
+Usually, for a Stratagem to become active, players
+will be required to expend Expertise ![Expertise Icon](svg/icon-expertise.svg) tokens. To
+expend an Expertise token for a Stratagem, simply
+move it from the Active Spacer Pool to the Stratagem card. You may do this at any point of your turn.
+
+![](img/stratagem-card.png)  
+*The Requirement (1) and Ability (2) sides
+of a Stratagem card. (3) number of charges.*
