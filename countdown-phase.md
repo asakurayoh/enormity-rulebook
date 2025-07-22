@@ -8,7 +8,7 @@ in to stop you. When the marker reaches the **zero
 hour ![Zero Hour Icon](svg/icon-zero-hour.svg)** space, things will become dire, and a
 special deadly Adversary boss Intruder may start
 hunting you – you should try to extract before that
-happens! (see Extraction on p. 24). Note that the
+happens! (see [Extraction](extraction.md) on p. 24). Note that the
 rules for Adversaries during Extraction Runs are
 disabled for the demo, but they will be available **in
 the full game**. Each and every boss in the game can
@@ -29,14 +29,14 @@ round of the run!**
 tokens on the current track space, resolve them
 now. If the Discovery token is faceup, resolve the
 matching Discovery card from the deck. If it’s facedown, reveal it and resolve a normal Discovery (see
-Discoveries on p. 23).
+[Discoveries](discoveries.md) on p. 23).
 
 **3. Resolve Blip tokens and Intruders:** If there are
 any Blip tokens or Intruders on the current track
 space, resolve them now. To resolve a Blip token
 from the track, reveal it. If it’s an Echo, discard it
 and spawn a new one according to normal Blip
-rules (see Blips on p. 16). If it’s Intruders, immediately spawn them adjacent to the **Last to Noise ![Target Icon](img/icon-target.png)
+rules (see [Blips](blips.md) on p. 16). If it’s Intruders, immediately spawn them adjacent to the **Last to Noise ![Priority Target Icon](svg/icon-target.svg)
 Spacer. Do not perform ambush attacks!** These
 Intruders will act in the Intruder Phase.
 
