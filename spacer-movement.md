@@ -25,10 +25,10 @@ apply to all Move actions:
   space (a space that does not contain Obstacles, Intruders or other Spacers).
 - Most Move actions **make Noise ![Noise Icon](svg/icon-noise.svg)** (see
   Noise Roll on p. 16).
-- If a space shows a Location arrow ![Location Arrow Icon](svg/icon-location-arrow.svg), stop
+- If a space shows a Location arrow <span class="shadow">![Location Arrow Icon](svg/icon-location-arrow.svg)</span>, stop
   on that space and reveal a new Location
   Map (see p. 15).
-- If a space shows a forced direction arrow ![Forced Direction Arrow](svg/icon-forced-direction-arrow.svg), 
+- If a space shows a forced direction arrow <span class="shadow">![Forced Direction Arrow](svg/icon-forced-direction-arrow.svg)</span>, 
   that space enforces your movement
   direction; if you’re on that space, you can
   only move in that arrow’s direction.
@@ -49,11 +49,11 @@ through black lines (walls) or onto Out-Of-Bounds spaces.*
 ## Revealing New Location Maps
 
 If you move to the edge of the board marked with
-a **Connecting Location symbol ![Location Arrow Icon](svg/icon-location-arrow.svg)**, stop your
+a **Connecting Location symbol <span class="shadow">![Location Arrow Icon](svg/icon-location-arrow.svg)</span>**, stop your
 movement, find the corresponding Location Map
 in the other Location Book and place it adjacent
 to your Location Book, as evenly as possible.
-The **orientation quadrants ![Orientation Quadrants Icon](svg/icon-orientation-quadran.svg) should have the
+The **orientation quadrants <span class="shadow">![Orientation Quadrants Icon](svg/icon-orientation-quadran.svg)</span> should have the
 same alignment**. Then, place every Intruder, Gear
 Cache, Engram, Discovery and door marked on the
 new Location map. Place starting Blips.
