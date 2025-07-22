@@ -41,7 +41,6 @@ While Spacers and revealed Intruders are subject
 to board space restrictions (for example, they
 cannot move through obstacles or beyond
 room walls), Blips can travel freely through every
-intersection on the Location map page (see Blip
-Movement on p. 16).
+intersection on the Location map page (see [Blip Movement](blip-movement.md) on p. 16).
 
 ![Blips move through out-of-bound places](img/blips-moves.png)

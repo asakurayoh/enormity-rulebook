@@ -103,7 +103,7 @@ rules of Engrams:
 ![](img/consoles.png)  
 *Consoles*
 
-Consoles ![Console Icon](img/icon-console.png) are interactable elements of locations, used to open or close doors, restore gravity,
+Consoles <span class="shadow">![Console Icon](img/icon-console.png)</span> are interactable elements of locations, used to open or close doors, restore gravity,
 vent oxygen, disable or enable security systems
 and cameras, and more. When you perform the
 Scavenge or Fast Scavenge action on a space with

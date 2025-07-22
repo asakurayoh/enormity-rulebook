@@ -10,7 +10,7 @@ Each Suit is equipped with a default Light source ![Light Source Icon](svg/icon-
 which may be upgraded by a variety of means
 later during the game. Each Light source has a **field**,
 which follows the rules for Weapon range ![Weapon Range Icon](svg/icon-range.svg) (see
-Effective Range on p. 21), and **intensity**, measured
+[Effective Range](effective-range.md) on p. 21), and **intensity**, measured
 in Power dice. The basic suit has an intensity of ![White Power Dice](svg/power-dice-white.svg "White Power Dice").
 
 **You can only scout Blips that are within your
@@ -40,4 +40,4 @@ you do, you perform a Scout Roll - roll as many Light
 **Note:** As an Adrenaline action, Scouting raises your
   Adrenaline and allows you to leave Spacer tokens!
 
-> ***Full Game:** In the full game, Scouting will have additional uses.*
+***Full Game:** In the full game, Scouting will have additional uses.*
