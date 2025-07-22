@@ -116,6 +116,7 @@ Rulebook 0.38
 - [Dice](dice.md)
 - [Blips](blips.md)
 - [Blip Movement](blip-movement.md)
+- [Facing](facing.md)
 - [Distance](distance.md)
 - [Tac Scanner](tac-scanner.md)
 - [Bosses, Terrain And Crash](bosses-terrain-and-crash.md)
