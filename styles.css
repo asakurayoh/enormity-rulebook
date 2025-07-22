@@ -1,0 +1,10 @@
+.red-round{
+    background: #c92421;
+    display: inline-flex;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    width: 1.5em;
+    color: white;
+    text-align: center;
+    justify-content: center;
+}

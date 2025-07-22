@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="styles.css" />
+
 # Rubicon Stats
 
 These three statistics represent your Spacer’s
@@ -5,7 +7,7 @@ physical and mental wellbeing, as well as combat readiness, as measured by your 
 internal monitor
 
 Unlike typical stats, these three are in flux.
-(1) Adrenaline ![Adrenaline Icon](svg/icon-adrenaline.svg) and (2) Stress ![Stress Icon](svg/icon-stress.svg) will go up
+<span class="red-round"></span> Adrenaline ![Adrenaline Icon](svg/icon-adrenaline.svg) and (2) Stress ![Stress Icon](svg/icon-stress.svg) will go up
 as a result of attacking, using abilities, making
 re-rolls and being exposed to intense fear, while
 (3) Vitals ![Vitals Icon](svg/icon-vitals.svg) will go down as the result of getting
