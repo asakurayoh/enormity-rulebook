@@ -76,7 +76,7 @@ them in an opaque container. This is the Engram Pool.
   below the Location Book (see [Countdown Track](countdown-track.md) on
   p. 13) and place the Countdown Marker on space
   ‘9’ of the track. Place the Extraction Marker on the
-  space specified by your current Course<br>  
+  space specified by your current Course  
   **(note: in the Demo, you will find this space in the
   Mythos Book, in the section corresponding
   to your current mission)**.
@@ -110,7 +110,7 @@ on indicated spaces.
 indicated spaces, faceup or facedown, depending
 on the Setup Instructions. If the Setup instructions
 refer to a Discovery card deck, place the deck near
-the Countdown Track.<br>  
+the Countdown Track.  
 **Note that in the first demo run you only setup
 fixed Discoveries!**
 12. **Other components:** At this point place any other components mentioned in the location setup on
@@ -142,24 +142,24 @@ card provides players with different **partial Action
 cards**. To find your partial Action cards, simply flip
 your Character and Suit cards: on the back you will
 find a list of three partial action cards, for a total of
-6 cards.<br>  
+6 cards.  
 Each player takes their 6 partial Action cards and
 combines them, to create **three double-sided
 sleeved Action cards (see the [Action Cards](action-card.md) box
 below)**.
 3. **Player Boards:** After creating their Action cards,
 players connect their Character and Suit cards using the rubicon connector to create a **player board**.
-They then take the three **special plastic indicators**, and place them on their player board.<br>  
+They then take the three **special plastic indicators**, and place them on their player board.  
 In the demo, Vitals ![Vitals Icon](svg/icon-vitals.svg) start on space ‘9’, Adrenaline ![Adrenaline Icon](svg/icon-adrenaline.svg) 
 starts on space ‘0’, and the starting space of
 Stress ![Stress Icon](svg/icon-stress.svg) is indicated on the Character card.
 4. **Gear:** Once your Spacer is ready, choose the
 Gear you will take with you on the run, noting the
-number of Gear you can carry in hand ![Hand Slots Icon](svg/icon-hand-slots.svg), as support ![Slots Icon](svg/icon-slots.svg "Slots"), and in your backpack ![Backpack Icon](svg/icon-backpack.svg "Slots") (this is usually dictated by your Suit card).<br>  
+number of Gear you can carry in hand ![Hand Slots Icon](svg/icon-hand-slots.svg), as support ![Slots Icon](svg/icon-slots.svg "Slots"), and in your backpack ![Backpack Icon](svg/icon-backpack.svg "Slots") (this is usually dictated by your Suit card).  
 In the demo’s first run, your Loadouts have been
 chosen for you!
 5. **Stratagems:** Choose 2 from your available Stratagem cards and place them near the Location Book,
-facedown.<br>  
+facedown.  
 *For the demo’s first run, we suggest you use **Tactical Redeployment** and **Morpheus Protocol**.*
 6. **Place Spacers on the board:** Finally, place your
 Spacer standees or miniatures on the spaces indicated in the Mythos Book. Once you’re done, you’re
