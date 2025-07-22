@@ -11,6 +11,7 @@ body{
 .markdown-body{
     img{
         vertical-align: bottom;
+        background: transparent;
     }
 
     .red-round{
@@ -18,7 +19,7 @@ body{
         display: inline-flex;
         aspect-ratio: 1;
         border-radius: 50%;
-        width: 1.5em;
+        width: 1.6em;
         color: white;
         text-align: center;
         justify-content: center;
@@ -35,10 +36,10 @@ body{
     }
 
     li+li{
-        margin-top: 16px;
+        margin-top: 0.5em;
     }
 
     ul ul, ul ol, ol ol, ol ul{
-        margin-top: 16px;
+        margin-top: 0.5em;
     }
 }
