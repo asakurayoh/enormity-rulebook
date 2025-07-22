@@ -10,7 +10,7 @@ body{
 
 .markdown-body{
     h1, h2 {
-        border-bottom-color: 1px solid #d9d9d9
+        border-bottom-color: #d9d9d9
     }
 
     ul,  ol {
@@ -32,6 +32,10 @@ body{
     img{
         vertical-align: bottom;
         background: transparent;
+    }
+    hr{
+        height: 1px;
+        background-color: #d9d9d9;
     }
 
     .red-round{
