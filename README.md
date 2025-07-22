@@ -128,9 +128,9 @@ Rulebook 0.38
   - [Knockback](other-rules.md#knockback)
   - [Knockdown](other-rules.md#knockdown)
   - [Stratagems](other-rules.md#stratagems)
-  - [Locations](other-rules.md#)  - TODO
-  - [Coordinates](other-rules.md#)  - TODO
-  - [Terrain](other-rules.md#)  - TODO
+  - [Locations](other-rules.md#locations)
+  - [Coordinates](other-rules.md#coordinates)
+  - [Terrain](other-rules.md#terrain)
   - [Bonus Attacks](other-rules.md#)  - TODO
   - [Follow-Up Attacks](other-rules.md#)  - TODO
   - [Bonus Actions](other-rules.md#)  - TODO

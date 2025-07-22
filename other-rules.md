@@ -374,3 +374,176 @@ move it from the Active Spacer Pool to the Stratagem card. You may do this at an
 ![](img/stratagem-card.png)  
 *The Requirement (1) and Ability (2) sides
 of a Stratagem card. (3) number of charges.*
+
+## Locations
+
+In the Dark Side of the Sun Demo, you will find all
+the necessary Location information in the **Mythos
+Book** (see Mythos Book, p. 4 for the first scenario!).
+In the full game, Location information, like special
+rules, effects, loot and engrams, as well as additional setup, will be located on Tarot sized **Location
+cards**.
+
+Each Location has a **designation**, for example SR
+(for Solar Ring). Whenever you reach a new Location
+in the either Location Book (a Location with a new
+designation), you will draw the appropriate Location
+card (or check the page in the Mythos Book, in the
+case of the demo).
+
+Although, for ease of use, the Location Setup is
+usually printed upon the Location Book page itself,
+some Location cards may feature additional setup
+instructions, or even an alternate setup diagram – 
+some places on *the Shepherd* will change as you
+explore it.
+
+Each Location has its distinct **alien ecology**, a fancy way of saying which Intruders you will be facing
+in that corner of the ship. Note that sometimes a
+Course card may override this ecology!
+
+A Location will always indicate the **Loot Deck** you
+should use while exploring it (see p. 11), as well as
+show the Location’s **Engram selection**. That’s right,
+although there are only 4 types of double-sided Engram tokens in the game, they represent different
+things in different Locations. Each Location will tell
+you exactly what ability each of those 4 Engram
+types has, as well as into which resources they will
+transform when you extract.
+
+Finally, a Location may have **special rules**. These
+may be **constant Location rules**, akin to passive
+abilities, things that you have to contend with
+throughout your entire stay in that Location, like
+Lack of Oxygen, Lack of Gravity, Poisonous Atmosphere and so on.
+
+Then you have **Location abilities and reactions**.
+These will tell you how to use them and when.
+For example, the Solar Ring has an ability called
+**Abrams Flare**: During your turn, if any Intruder is on
+a ![Dangerous Space Icon](svg/icon-dangerous-space.svg) space, pay **ONE**//**TWO**//**THREE** Discipline ![Discipline Icon](svg/icon-discipline.svg) to
+Suppress Fire 1 ![Suppressing Icon](svg/icon-suppressing-power.svg).”
+
+Finally, a Location may allow you to perform a special **Location action**. These will also tell you how to
+use them and when. These are considered actions,
+and will usually ask you to play (use) an Action card
+as part of their cost.
+
+## Coordinates
+
+Sometimes it’s necessary to know exactly where
+on the board a game element should be placed or
+moved, or where an effect is taking place. Sometimes the effect will specify its placement **contextually**, for example ‘adjacent to the closest Spacer’
+or ‘on every ![Dangerous Space Icon](svg/icon-dangerous-space.svg "Dangerous Space") space’.
+
+### Algebraic Notations
+
+Other times, the coordinates will be named as
+**algebraic notations**, that are specified by a combination of a letter and a number, for example ‘H3’
+– exactly like in Chess. To find an algebraic notated
+coordinates:
+
+1. Take the double-sided Coordinates Ruler and
+flip it to the **Alphabet side**.
+2. Align it **vertically** with the **orientation
+quadrant** of the appropriate Location Map
+page, so that the two quadrants form a
+semicircle, and read the letter part of the
+coordinates.
+3. Flip the Coordinates Ruler to the **Numerical
+side**.
+4. Align it **horizontally** with the **orientation
+quadrant** of the appropriate Location Map
+page, so that the two quadrants form a
+semicircle, and read the number part of the
+coordinates.
+5. Now you have the full coordinates.
+
+![](img/coordinates-ruler.png)  
+*Using the Coordinates Ruler to check coordinates*
+
+### Random Coordinates
+
+There may be times when the game asks you to
+check for random coordinates, for example to place
+something on a random space of the board. When
+this happens, take the Tac Scanner and draw the
+top card from the white **Scanner deck**.
+
+Check the middle of the reading for an algebraic
+notation (like ‘H1’, see above for details). During this
+reading ignore the Intruder Blip symbols.
+
+![](img/random-coordinates-tac-scanner.png)  
+*Random coordinates in the Tac Scanner*
+
+## Terrain
+
+![](img/terrain-tile-standee.png)  
+*Terrain tile and Terrain tile standee*
+
+Some Locations, especially lairs, as well as some
+other game effects, will instruct you to setup additional Terrain tiles at part of the Extraction Run or
+Incursion setup.
+
+Terrain Tiles are made of spaces (usually single
+spaces). Unless stated otherwise, you resolve a tile
+effect when entering the first space of a tile. A tile
+does not block LoS to itself (just like a miniature).
+**Note that Doors are not spaces and therefore not
+considered Terrain tiles.**
+
+Terrain tiles can also be placed or destroyed during
+play, as a result of various game effects. When a
+Terrain tile is **destroyed**, simply remove it from the
+board. When a Terrain tile is **placed**, put it in on the
+indicated spaces on the board. If the placement effect doesn’t specify where to place the tile or asks
+you to randomize placement, use the Tac Scanner
+to generate random coordinates (see Coordinates
+on p. 40 for details).
+
+If all the Terrain tiles of this type are already on the
+board, remove the tile furthest from the Intruders,
+then place it on the indicated spaces.
+
+When a Terrain tile is placed on a space occupied by
+another Terrain tile:
+
+- If the other tile has the Indestructible keyword, you cannot place anything on top of it.
+  Ignore this new tile placement.
+- In all other cases the other Terrain tile is destroyed before you place the new tile.
+
+When a Terrain tile is placed on a space occupied by a Spacer:
+
+- If the tile has the Obstacle and Destructible
+keywords, it is destroyed and the Spacer
+  suffers **Crash**.
+- If the tile has just the Obstacle keyword, the
+  Spacer suffers **Crash** and is **Displaced** to
+  an adjacent space in a way that would allow
+  the tile to be placed without overlapping. If
+  there is no such space, the Spacer cannot
+  be legally Displaced and dies.
+- In all other cases the Terrain tile is simply
+  placed underneath the Spacer miniature
+  and this Spacer must immediately resolve
+  this tile’s effects (if any) as if they had just
+  moved onto it.
+
+If a Terrain tile is placed on a space occupied by the
+Intruder:
+
+- If the tile has the Indestructible trait, it is
+  placed as normal.
+- In all other cases the Terrain tile cannot be
+  placed. Ignore this tile placement.
+
+### Terrain Abilities
+
+In a similar way to Spacers and Intruders, Terrain
+tiles possess various abilities that may greatly influence the course of play. Some common Terrain keywords and their effects have been explained in the
+Keywords section. All of these abilities are forced
+and **must** be resolved **each time** they are triggered
+unless explicitly stated otherwise. If an ability has
+no trigger, its effect is constant and always active
+as long as this tile is present on the board.
