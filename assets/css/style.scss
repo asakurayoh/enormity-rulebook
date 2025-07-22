@@ -57,4 +57,30 @@ body{
         font-style: normal;
         font-weight: normal;
     }
+
+    .white{
+        color: white;
+        text-shadow: 0px 0px 5px black;
+        font-weight: bold;
+    }
+
+    .red{
+        color: #db0000;
+        font-weight: bold;
+    }
+
+    .black{
+        color: #000;
+        font-weight: bold;
+    }
+
+    .yellow{
+        color: #ffc000;
+        font-weight: bold;
+    }
+
+    .blue{
+        color: #04a2dd;
+        font-weight: bold;
+    }
 }

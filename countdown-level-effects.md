@@ -5,13 +5,13 @@ In the **Infiltration Level (WHITE)**, the Intruders are unaware of your presenc
 - During the Countdown Phase, no Blips spawn from the Countdown Track.
 - During the Spacer Phase, Blips moving as a result of Noise ![Noise Icon](svg/icon-noise.svg) **do not change** their
 patrol direction.
-- Revealed Blips spawn *WHITE* ![](svg/white.svg) Intruders.
+- Revealed Blips spawn <strong class="white">WHITE ![](svg/white.svg)</strong> Intruders.
 
 In the **Eclipse Level (RED)**, the Intruders have become wary:
 - During the Countdown Phase, spawn 1 new Blip.
 - During the Spacer Phase, Blips moving as a result of Noise ![Noise Icon](svg/icon-noise.svg) **change** their patrol
 direction to face the source of the Noise.
-- Revealed Blips spawn *WHITE* ![](svg/white.svg) and *RED* ![](svg/red.svg) Intruders.
+- Revealed Blips spawn <strong class="white">WHITE ![](svg/white.svg)</strong> and <strong class="red">RED ![](svg/red.svg)</strong> Intruders.
 
 In the **Extraction Level (BLACK)**, the Intruders know of you and will try to eliminate you.
 You should think of extraction!
@@ -20,4 +20,4 @@ You should think of extraction!
 - During the Spacer Phase, Blips moving as a result of ![Noise Icon](svg/icon-noise.svg) **change** their patrol
 direction to face the source of the Noise.
 - Patrolling Blips move towards closest Spacer.
-- Revealed Blips spawn *WHITE* ![](svg/white.svg), *RED* ![](svg/red.svg) and *BLACK* ![](svg/black.svg) Intruders.
+- Revealed Blips spawn <strong class="white">WHITE ![](svg/white.svg)</strong>, <strong class="red">RED ![](svg/red.svg)</strong> and <strong class="black">BLACK ![](svg/black.svg)</strong> Intruders.
