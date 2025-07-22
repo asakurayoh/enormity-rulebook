@@ -6,6 +6,6 @@ damage.
 
 ![Rubicon Indicators](img/rubicon-indicators.png)
 
-*(1) Adrenaline ![Adrenaline Icon](svg/icon-adrenaline.svg),
-(2) Stress ![Stress Icon](svg/icon-stress.svg),
-(3) Vitals ![Vitals Icon](svg/icon-vitals.svg)*
+*<span class="red-round">1</span> Adrenaline ![Adrenaline Icon](svg/icon-adrenaline.svg),
+<span class="red-round">2</span> Stress ![Stress Icon](svg/icon-stress.svg),
+<span class="red-round">3</span> Vitals ![Vitals Icon](svg/icon-vitals.svg)*

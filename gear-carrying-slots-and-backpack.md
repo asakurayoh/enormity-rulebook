@@ -12,10 +12,10 @@ Gear card.
 
 **Backpack** provides additional slots for Weapons and Support cards. Each card in the backpack takes up 1 backpack slot, regardless of how many hands it needs to be equipped. Gear
 cards in the backpack are not considered equipped. You cannot use them until you equip
-them with the Rearm action (see Actions on p. 14). **Important: Always leave room in your
+them with the Rearm action (see [Actions](actions.md) on p. 14). **Important: Always leave room in your
 backpack for new Gear cards you may find during a run!**
 
 ![Example of icons on cards](img/gear-slots-backpack-icons.png)
 
-*The amount of Support slots (1) and Backpack slots (2) is usually provided by your Suit Card. Weapons
-can either take up one (3) or two (4) ‘hand slots’. Support cards always take one support slot (5).*
+*The amount of Support slots <span class="red-round">1</span> and Backpack slots <span class="red-round">2</span> is usually provided by your Suit Card. Weapons
+can either take up one <span class="red-round">3</span> or two <span class="red-round">4</span> ‘hand slots’. Support cards always take one support slot <span class="red-round">5</span>.*
