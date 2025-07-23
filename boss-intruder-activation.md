@@ -12,14 +12,15 @@ always be an AI card draw.
 To resolve the Boss Intruder’s activation, follow
 these steps in order:
 
-1. **Draw AI:** Draw the top card from the AI deck.
-2. **Targeting:** Decide who or what becomes the Target of the Attack.
-3. **Movement Commands:** Resolve Intruder Movement commands.
-4. **Attack/Action:** Resolve Intruder Attack/Action commands.
-<li>4.1. **Attack Roll:** Perform an Attack Roll.</li>
-<li>4.2. **Attack Consequences:** Resolve all Attack/Action effects.</li>
-5. **After Attack/Action:** Resolve all After Attack/Action effects.
-
+<ol>
+<li>**Draw AI:** Draw the top card from the AI deck.
+<li>**Targeting:** Decide who or what becomes the Target of the Attack.
+<li>**Movement Commands:** Resolve Intruder Movement commands.
+<li>**Attack/Action:** Resolve Intruder Attack/Action commands.
+<li>4.1. **Attack Roll:** Perform an Attack Roll.
+<li>4.2. **Attack Consequences:** Resolve all Attack/Action effects.
+<li>5. **After Attack/Action:** Resolve all After Attack/Action effects.
+</ol>
 
 ## 1. Draw AI
 
