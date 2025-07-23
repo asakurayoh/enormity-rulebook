@@ -32,7 +32,7 @@ a Discovery discard pile.
 ![Zero Hour Icon](svg/icon-zero-hour.svg)  zero hour space.
 
 **Important:** In most runs this is necessary to make
-extraction possible (see Extraction below).
+extraction possible (see [Extraction](extraction.md) below).
 
 ## Scenarios: Fixed Discoveries
 
@@ -57,9 +57,9 @@ If the setup didn’t instruct you to use fixed Discoveries, you will be using r
 In that case, when you reveal a Discovery token
 (either from the board or Countdown Track), ignore
 the number and instead check its **color**, then find
-the appropriate section and chapter: your **$\color{#00b0f0}{\textsf{current
-Location}}$** (i.e. Solar Ring), **$\color{#ffc000}{\textsf{current Parsec}}$** (i.e. First
-Parsec), or **$\color{#f00}{\textsf{current Intruder}}$** (i.e. Automas).
+the appropriate section and chapter: your <strong class="blue">current
+Location</strong> (i.e. Solar Ring), <strong class="yellow">current Parsec</strong> (i.e. First
+Parsec), or <strong class="red">current Intruder</strong> (i.e. Automas).
 
 Each section contains a set of Discoveries numbered in an ascending order, starting from ‘1’. To
 make a Discovery, roll a d10 and add X to the result,
