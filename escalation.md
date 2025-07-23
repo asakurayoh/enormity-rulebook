@@ -29,8 +29,7 @@ a card, always prioritize cards from the deck. Only if
 you find no applicable cards in the deck should you
 search the discard pile.
 
-For a full breakdown of each case, see the chart on
-the next page.
+For a full breakdown of each case, [see the chart on the next page](escalation-chart.md).
 
 ## Escalating the BP Deck
 
@@ -44,8 +43,7 @@ and shuffle it into the BP deck. If the new BP card
 would end up as the **only card in the deck**, shuffle
 in the BP discard pile too.
 
-For special cases, see the full escalation chart on
-the next page.
+For special cases, [see the full escalation chart onthe next page](escalation-chart.md).
 
 ## Escalating the AI Deck
 
@@ -69,7 +67,7 @@ from a level I card to level III. **Note:** If there are no
 more current or higher-level cards to escalate, you
 will add a permanent stat bonus instead.
 
-For special cases, see the chart on the next page.
+For special cases, [see the chart on the next page](escalation-chart.md).
 
 ## Escalations Outside of Wounding
 

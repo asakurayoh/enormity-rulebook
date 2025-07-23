@@ -31,7 +31,7 @@ are as follows:
   Wound ![Status Icon](svg/icon-suprise-status.svg) tokens on top of the Wound
   Stack and **set the wounded BP III card
   aside**. It will return to the bottom of the
-  deck after Escalation (see Escalation p. 35).
+  deck after Escalation (see [Escalation](escalation.md) p. 35).
 - If you **critically wound** a BP III card, you
   place it on top of the Wound Stack instead.
   Each BP III card on the Wound Stack counts
