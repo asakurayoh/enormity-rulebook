@@ -45,8 +45,8 @@ move this marker one space toward the ‘!’ zero hour
 space (see [Discoveries](discoveries.md) above).
 
 ![](img/make-discovery.png)  
-*Whenever a Spacer makes a Discovery (1), move this
-marker one space toward the ![Zero Hour Icon](svg/icon-zero-hour.svg) Zero Hour space (2).*
+*Whenever a Spacer makes a Discovery <span class="red-round">1</span>, move this
+marker one space toward the ![Zero Hour Icon](svg/icon-zero-hour.svg) Zero Hour space <span class="red-round">2</span>.*
 
 As soon as you move it onto the ‘!’ zero hour space,
 remove it from the Countdown Track altogether.
