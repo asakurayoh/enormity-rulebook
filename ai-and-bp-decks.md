@@ -17,8 +17,7 @@ Intruder Attack will be.
 *AI card*
 
 AI card elements include an Intruder illustration
-(1), card level (2), Targeting (3), Action instructions (4), Attack effect, including the dice you roll (5), After Attack effects () and the Attack
-type (7).
+<span class="red-round">1</span>, card level <span class="red-round">2</span>, Targeting <span class="red-round">3</span>, Action instructions <span class="red-round">4</span>, Attack effect, including the dice you roll <span class="red-round">5</span>, After Attack effects <span class="red-round">6</span> and the Attack type <span class="red-round">7</span>.
 
 Intruders are alien beings from beyond the rim of
 Antinomy. Their xenobiology is strange and unfathomable, and that is represented by the BP cards.
@@ -27,5 +26,4 @@ Antinomy. Their xenobiology is strange and unfathomable, and that is represented
 *BP card*
 
 BP card elements include an Intruder illustration
-(1), card level (2), AT value (3), Responses (4),
-Critical (5).
+<span class="red-round">1</span>, card level <span class="red-round">2</span>, AT value <span class="red-round">3</span>, Responses <span class="red-round">4</span>, Critical <span class="red-round">5</span>.
