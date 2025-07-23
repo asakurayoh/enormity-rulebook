@@ -260,7 +260,7 @@ one more grim duty you have to perform. Check if
 anything else heard your life and death struggle,
 and is about to drop in with a visit.
 
-If your active weapon is not Noiseless [[NOISELESS]]
+If your active weapon is not Noiseless <span class="keyword">NOISELESS</span>
 , it will generate some kind of Noise ![Noise Icon](svg/icon-noise.svg). You perform this roll just like any other Noise Roll, rolling
 the indicated number of Danger dice. If your Noise
 box shows an Intruder symbol ![Intruder symbol](svg/intruder-symbol.svg), check the Intruder Sheet and take the **die corresponding to
@@ -281,7 +281,7 @@ becomes, and there may be times when you become overwhelmed by the sheer number 
 high-powered automatic weapons at your disposal
 may even the odds.
 
-If a weapon has a Burst X frame [[BURST X]] , it may
+If a weapon has a Burst X frame <span class="keyword">BURST X</span> , it may
 be used to target more than one Intruder with a single attack action, up to X Intruders. A Burst Attack
 is considered a normal attack, but is subject to the
 following additional rules:
@@ -312,4 +312,4 @@ following additional rules:
   you do suppress each target (if eligible)
 - **Generating Noise:** You generate Noise ![Noise Icon](svg/icon-noise.svg)
    once, but the Noise level accounts for each
-  additional target [[/![Ammo Icon](svg/icon-ammo.svg)]] .
+  additional target span class="keyword">/![Ammo Icon](svg/icon-ammo-white.svg)</span> .
