@@ -13,7 +13,7 @@ To resolve the Boss Intruder’s activation, follow
 these steps in order:
 
 <ol style="list-style-position: inside; padding-left:0.5em">
-<li value="1">* *Draw AI:** Draw the top card from the AI deck.</li>
+<li value="1"> **Draw AI:** Draw the top card from the AI deck.</li>
 <li value="2"> **Targeting:** Decide who or what becomes the Target of the Attack.</li>
 <li value="3"> **Movement Commands:** Resolve Intruder Movement commands.</li>
 <li value="4"> **Attack/Action:** Resolve Intruder Attack/Action commands.</li>
