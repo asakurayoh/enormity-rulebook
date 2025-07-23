@@ -15,7 +15,7 @@ space. Any Spacer who ends their movement on
 that space **extracts safely and is removed from
 the board**. When all Spacers are either extracted or
 dead, the run ends and, if at least 1 Spacer extracted, it is considered a success (if any of your Spacers
-died, don’t worry, you have more lives, see Death and Life Spares on p. 42).
+died, don’t worry, you have more lives, see [Death and Life Spares](other-rules.md#death-and-life-spares) on p. 42).
 
 **Important:** Count Spacer turns, not game rounds
 or Spacer phases!
