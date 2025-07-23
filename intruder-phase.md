@@ -24,4 +24,4 @@ various **attributes** and stat**istics found on their
 oversized Intruder Sheet (in the Full Game, this will
 be an Intruder Manual book!), as well as Unique
 Specimen cards. **Note:** Boss Intruders have additional AI, BP and Trait cards, making them much
-more formidable (see Boss Intruders on p. 32).
+more formidable (see [Boss Intruders](boss-intruders.md) on p. 32).
