@@ -15,4 +15,4 @@ targeting instructions and restrictions).
 After you resolve the Flash Attack, remove the Intruder’s miniature from the board. It vanishes into
 the void it came from. Note, sometimes the Flash
 Attack will direct you to place the Intruder’s miniature on the Zero Hour ![Zero Hour Icon](svg/icon-zero-hour.svg) space of the Countdown
-Track. In that case, the Intruder becomes your current Adversary (see above).
+Track. In that case, the Intruder becomes your current Adversary ([see above](zero-hour.md#adversary)).
