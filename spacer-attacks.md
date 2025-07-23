@@ -312,4 +312,4 @@ following additional rules:
   you do suppress each target (if eligible)
 - **Generating Noise:** You generate Noise ![Noise Icon](svg/icon-noise.svg)
    once, but the Noise level accounts for each
-  additional target span class="keyword">/![Ammo Icon](svg/icon-ammo-white.svg)</span> .
+  additional target <span class="keyword">/![Ammo Icon](svg/icon-ammo-white.svg)</span> .
