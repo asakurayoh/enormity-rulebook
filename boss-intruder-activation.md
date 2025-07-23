@@ -13,13 +13,13 @@ To resolve the Boss Intruder’s activation, follow
 these steps in order:
 
 <ol style="list-style-position: inside; padding-left:0.5em">
-<li value="1"> **Draw AI:** Draw the top card from the AI deck.</li>
-<li value="2"> **Targeting:** Decide who or what becomes the Target of the Attack.</li>
-<li value="3"> **Movement Commands:** Resolve Intruder Movement commands.</li>
-<li value="4"> **Attack/Action:** Resolve Intruder Attack/Action commands.</li>
-<li value="4.1" style="--marker: '4.1. '"> **Attack Roll:** Perform an Attack Roll.</li>
-<li value="4.2" style="--marker: '4.2. '"> **Attack Consequences:** Resolve all Attack/Action effects.</li>
-<li value="5"> **After Attack/Action:** Resolve all After Attack/Action effects.</li>
+<li value="1"> <strong>Draw AI:</strong> Draw the top card from the AI deck.</li>
+<li value="2"> <strong>Targeting:</strong> Decide who or what becomes the Target of the Attack.</li>
+<li value="3"> <strong>Movement Commands:</strong> Resolve Intruder Movement commands.</li>
+<li value="4"> <strong>Attack/Action:</strong> Resolve Intruder Attack/Action commands.</li>
+<li value="4.1" style="--marker: '4.1. '"> <strong>Attack Roll:</strong> Perform an Attack Roll.</li>
+<li value="4.2" style="--marker: '4.2. '"> <strong>Attack Consequences:</strong> Resolve all Attack/Action effects.</li>
+<li value="5"> <strong>After Attack/Action:</strong> Resolve all After Attack/Action effects.</li>
 </ol>
 
 ## 1. Draw AI
