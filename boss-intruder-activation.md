@@ -76,10 +76,10 @@ spaces) from the Intruder (counted through Obstacles and red lines) among all po
 spaces) from the Intruder (counted through Obstacles and red lines) among all possible Targets.
 
 **In front:** The Target is on any space in front (see
-Facing p. 27) and within Line of Sight (see p. 21) of
+[Facing](facing.md) p. 27) and within Line of Sight ([see p. 21](line-of-sight.md)) of
 the Intruder.
 
-**In sight:** The Target is within Line of Sight (see p. 21)
+**In sight:** The Target is within Line of Sight ([see p. 21](line-of-sight.md))
 of the Intruder.
 
 **Highest/Lowest X:** Least/most value/amount of a
@@ -100,29 +100,28 @@ a ‘box’ around the source. This targeting line triggers even if there are no
 ## 3. Movement Commands
 
 Perform Boss Intruder Movement commands, like
-‘Move’ and ‘Shift’ (see Action Commands below for
+‘Move’ and ‘Shift’ (see [Action Commands](#action-commands) below for
 specifics). Boss Intruders move according to baseline Intruder movement rules (see p. 28), with a few
-exceptions (see box Bosses, Terrain and Crash on p.
+exceptions (see box [Bosses, Terrain and Crash](bosses-terrain-and-crash.md) on p.
 33).
 
 ## 4. Attack/Action Commands
 
 Perform Boss Intruder Attack commands, like
-‘Attack’ or ‘Shoot’, or other non-Attack, non-Movement Action commands (see Action Commands
+‘Attack’ or ‘Shoot’, or other non-Attack, non-Movement Action commands (see [Action Commands](#action-commands)
 above for specifics).
 
 ### 4.1 Attack Roll
 Boss Intruder’s attack rolls are resolved according
-to baseline Intruder rules (see p. 26).
+to baseline Intruder rules ([see p. 26](intruder-phase.md#intruders)).
 
 ### 4.2. Attack Consequences
 Boss Intruder’s attacks are resolved according to
-baseline Intruder rules (see p. 26).
+baseline Intruder rules ([see p. 26](intruder-phase.md#intruders)).
 
 ## 5. After Attack/Action
 
-Boss Intruders After Attack/Action effects are resolved according to baseline Intruder rules (see p.
-26), with the following addition.
+Boss Intruders After Attack/Action effects are resolved according to baseline Intruder rules ([see p. 26](intruder-phase.md#intruders)), with the following addition.
 
 When an Intruder Attack/Action targets more than
 one Spacer, it is important to know if the After Attack/Action effect applies to every targeted Spacer
@@ -152,7 +151,7 @@ Roll, but they are considered to **happen simultaneously**. The following rules 
   the source of Zone X.
 - The Intruder is **not** considered to be inside
   the Zone originating from it and neither are
-  Spacers in Other Places (see Other Places, p. 42).
+  Spacers in Other Places (see [Other Places](other-rules.md#other-places), p. 42).
 
 **Move:** Perform a movement using standard Intruder rules for Movement. Move is usually part of a
 composite command, i.e. ‘Move&Attack:’.
