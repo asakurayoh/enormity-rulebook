@@ -15,9 +15,9 @@ these steps in order:
 1. **Draw AI:** Draw the top card from the AI deck.
 2. **Targeting:** Decide who or what becomes the Target of the Attack.
 3. **Movement Commands:** Resolve Intruder Movement commands.
-4. **Attack/Action:** Resolve Intruder Attack/Action commands.  
-  **4.1. Attack Roll:** Perform an Attack Roll.  
-  **4.2. Attack Consequences:** Resolve all Attack/Action effects.
+4. **Attack/Action:** Resolve Intruder Attack/Action commands.
+<li>4.1. **Attack Roll:** Perform an Attack Roll.</li>
+<li>4.2. **Attack Consequences:** Resolve all Attack/Action effects.</li>
 5. **After Attack/Action:** Resolve all After Attack/Action effects.
 
 
