@@ -1,7 +1,7 @@
 # B. Resolving AI Protocols
 
 Unlike Boss Intruders, which have a broad range of
-behaviors (represented by AI cards, see p. 32), each
+behaviors (represented by [AI cards](ai-and-bp-decks.md), see p. 32), each
 type of baseline Intruder behaves differently, but in
 a somewhat predictable manner. This is represented by AI Protocols.
 
@@ -10,7 +10,7 @@ a somewhat predictable manner. This is represented by AI Protocols.
 
 After establishing the target of the Intruder’s action, go through the list of AI Protocols in descending order. Each AI Protocol has a distinct name,
 description and an additional **bolded requirement**,
-usually defined as the target’s proximity to the Intruder (see the Distance box on p. 27).
+usually defined as the target’s proximity to the Intruder (see the [Distance](distance.md) box on p. 27).
 
 Go through the AI Protocols one at a time, and
 perform the first one whose bolded requirements
@@ -108,9 +108,9 @@ to death, but may also have other, more immediate
 effects:
 
 -  If your Vitals go below 1, you have to perform
-  a Flatline Check (see Flatlining on p. 30)
+  a Flatline Check (see [Flatlining](#flatlining) on p. 30)
 - If your Vitals and Stress indicators meet or
-  pass each other, you suffer a Stress Breakdown (see Stress Breakdown on p. 37)
+  pass each other, you suffer a Stress Breakdown (see [Stress Breakdown](other-rules.md#stress-breakdowns) on p. 37)
 
 ### Vitals Levels
 
@@ -125,7 +125,7 @@ After resolving the AI protocol’s action, resolve any
 After Action Effects. After resolving an AI card’s
 effect, resolve any After Attack Effects. Resolve
 this even if the action itself was not resolved (with
-the exception of Chain Break, see below).
+the exception of Chain Break, [see below](#chain-break)).
 
 ## ![Window Of Opportunity Icon](svg/icon-window-opportunity-big.svg) Window Of Opportunity
 
@@ -212,9 +212,9 @@ There are 2 ‘You Live’ cards and 2 ‘You Died’ cards,
 so odds of surviving are 50 – 50.
 
 Furthermore, one You Live reading may result in a
-Bonus Attack (see Bonus Attacks on p. 41), while
+Bonus Attack (see [Bonus Attacks](other-rules.md#bonus-attacks) on p. 41), while
 one You Died card will result in an Awakening Roll
-(see Awakening on p. 41). If you survived the Flatline
+(see [Awakening](other-rules.md#awakening) on p. 41). If you survived the Flatline
 Check, your Vitals ![Vital Icon](svg/icon-vitals.svg) still became 0 and every next
 damage causes another Flatline Check.
 
@@ -224,7 +224,7 @@ back** into the Flatline deck.
 ![Flatline Card](img/flatline-card.png)  
 *Flatline card*
 
-###Place of Death
+### Place of Death
 
 You might have noticed there are 5 Dead Spacer tokens included in the game. In the Demo, they serve
 little purpose. However, in the Full Game, you will

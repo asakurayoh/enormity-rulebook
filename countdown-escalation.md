@@ -2,7 +2,7 @@
 
 In Enormity, your enemies grow in power throughout the game session, just like the Spacers. Boss
 Intruders follow special rules tied to gaining 
-Wounds, called Escalation (see p. 35 for details),
+Wounds, called Escalation ([see p. 35 for details](escalation.md)),
 while extraction run Intruders get stronger with the
 growing level of the Countdown Track.
 
