@@ -192,12 +192,12 @@ one of the Power dice of the Attack** (from ![Black Power Die](svg/power-dice-bl
 or ![Red Power Die](svg/power-dice-red.svg "Red Power Die") to ![White Power Die](svg/power-dice-white.svg "White Power Die")).
 
 ![](img/cover-example.png)  
-*In the first example (1), the Spacer is in cover. They are adjacent
+*In the first example <span class="red-round">1</span>, the Spacer is in cover. They are adjacent
 to the Terrain tile with the Cover keyword (as shown by the orange
 box), and are on opposite sides of Terrain tile (as shown by the red
 line drawn through the Terrain tile’s space). In the second example
-(2), the Spacer is not in cover: they are not adjacent to a Terrain tile
-with the Cover keyword. In the third example (3), the Spacer is also
+<span class="red-round">2</span>, the Spacer is not in cover: they are not adjacent to a Terrain tile
+with the Cover keyword. In the third example <span class="red-round">3</span>, the Spacer is also
 not in cover in relation to either Intruder. Although they are adjacent
 to a Terrain tile with the cover keyword, they are it is not between
 them (i.e they are not on opposite sides of the red line).*
@@ -371,8 +371,8 @@ expend an Expertise token for a Stratagem, simply
 move it from the Active Spacer Pool to the Stratagem card. You may do this at any point of your turn.
 
 ![](img/stratagem-card.png)  
-*The Requirement (1) and Ability (2) sides
-of a Stratagem card. (3) number of charges.*
+*The Requirement <span class="red-round">1</span> and Ability <span class="red-round">2</span> sides
+of a Stratagem card. <span class="red-round">3</span> number of charges.*
 
 ## Locations
 
