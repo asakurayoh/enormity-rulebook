@@ -3,7 +3,7 @@
 <table>
 <thead>
 <tr>
-<thWounded cardth>
+<th>Wounded card</th>
 <th>BP deck</th>
 <th>AI deck</th>
 </tr>
