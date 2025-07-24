@@ -88,7 +88,7 @@ resolve its effect.
 As a general rule, you must always resolve keywords that place Spacer tokens in the Spacer Pool
 (like Discipline X), as well as keywords that hinder
 you in any way (like Heavy). You generally **may** use
-abilities that grant you move-like abilities (like Fallback X). See the Keywords List on p. 38 to learn
+abilities that grant you move-like abilities (like Fallback X). See the [Keywords List](#keywords-list) on p. 38 to learn
 more about using other keyword abilities.
 
 As long as their conditions are fulfilled, passives
@@ -112,7 +112,7 @@ to trigger that ability.
 Reactions are a type of triggered ability denoted by
 the reaction ![Window Of Opportunity Symbol](svg/icon-window-opportunity.svg "Window Of Opportunity") symbol. Reactions are powerful
 effects that may be performed during a **window of
-opportunity** (see p. 29). As windows of opportunity
+opportunity** ([see p. 29](resolving-ai-protocols.md#window-of-opportunity-icon-window-of-opportunity)). As windows of opportunity
 are generally found on AI cards, **Reactions allow
 Spacers to act out of turn, during the Intruder
 Phase**!
@@ -170,7 +170,7 @@ demo.
 weapon, move up to X space towards the target.
 
 **Burst:** This weapon can affect more than one target
-with a single Attack. See p. 22 for details.
+with a single Attack. [See p. 22](spacer-attacks.md#burst-attacks) for details.
 
 **Confidence X:** During the **Leave Spacer tokens
 and Suppression step** of a Spacer Attack, place X
@@ -317,8 +317,7 @@ The attack is considered a melee attack.
 ## Knockback
 
 Move the affected miniature X spaces directly away from the source of Knockback in a
-straight line (or in a specified direction in case of directional Knockback; see examples on
-the next page).
+straight line (or in a specified direction in case of directional Knockback; [see examples on the next page](#knockback)).
 
 - If Knockback is caused by an Attack, it affects the Target only if it is within the Attack’s effective range (adjacent for normal Attacks, in the designated zone for Zone
   Attacks, within X spaces for Ranged X Attacks, etc.).
@@ -403,7 +402,7 @@ in that corner of the ship. Note that sometimes a
 Course card may override this ecology!
 
 A Location will always indicate the **Loot Deck** you
-should use while exploring it (see p. 11), as well as
+should use while exploring it ([see p. 11](extraction-runs.md#1-preparing-location-setup)), as well as
 show the Location’s **Engram selection**. That’s right,
 although there are only 4 types of double-sided Engram tokens in the game, they represent different
 things in different Locations. Each Location will tell
@@ -499,7 +498,7 @@ Terrain tile is **destroyed**, simply remove it from the
 board. When a Terrain tile is **placed**, put it in on the
 indicated spaces on the board. If the placement effect doesn’t specify where to place the tile or asks
 you to randomize placement, use the Tac Scanner
-to generate random coordinates (see Coordinates
+to generate random coordinates (see [Coordinates](#coordinates)
 on p. 40 for details).
 
 If all the Terrain tiles of this type are already on the
@@ -556,7 +555,7 @@ exception below). For a Bonus Attack you may
 declare an exhausted or out of ammo weapon as
 your active weapon. If you do, unexhaust it or gain
 exactly 1 Ammo ![Ammo Icon](svg/icon-ammo.svg) for it, then continue the Attack.
-During a Bonus Attack you may ignore Reprisal Attacks (see p. 22) to this Attack. When the Attack
+During a Bonus Attack you may ignore Reprisal Attacks ([see p. 22](spacer-attacks.md#reprisal-and-follow-up-attack-responses)) to this Attack. When the Attack
 ends, continue resolving the Phase that was interrupted by the Bonus Attack. All other restrictions
 and rules of a combat action apply.
 
@@ -640,7 +639,7 @@ you awaken.
 
 As soon as you awaken, immediately:
 
-- Perform a Chain Break (see Chain Break on
+- Perform a Chain Break (see [Chain Break](resolving-ai-protocols.md#chain-break) on
 p. 29).
 - Gain the **Priority Target/Last to Noise** token. As long as you are awakened, you **cannot lose this token**.
 - Discard any Condition cards and tokens.
@@ -729,12 +728,12 @@ Mode.
 ### Normal Mode features
 
 - You start the game with 8 Life Spares (see
-  **Life Spares** above).
-- You start the game with an unlimited number of Time Crystals (see below); this means
+  **[Life Spares](#death-and-life-spares)** above).
+- You start the game with an unlimited number of Time Crystals ([see below](#time-crystals)); this means
   you can replay any Extraction Run or Incursion that didn’t go your way; note that
   if you decide to keep the result of a Run or
   Incursion, you have to live with their consequences!
-- You have to defeat your Parsec’s Boss before advancing to the next Parsec (see Persistent Worlds and Campaigns); after failing
+- You have to defeat your Parsec’s Boss before advancing to the next Parsec (see [Persistent Worlds](fundamental-concepts.md#persistent-world) and [Campaigns](fundamental-concepts.md#campaigns)); after failing
   to defeat a Boss, you may go on an extra
   Extraction Run that does not progress the
   Course Deck.
@@ -767,6 +766,6 @@ Incursion again. You may even decide to tackle a
 different Run (in a different Location) or Incursion, if
 available.
 
-In a Normal Mode game, Time Crystals are unlimited (see Difficulty modes). However, in Veteran
+In a Normal Mode game, Time Crystals are unlimited (see [Difficulty modes](#difficulty-modes)). However, in Veteran
 Spacer Mode, Time Crystals are an extremely rare
 resource and should not be spent lightly.

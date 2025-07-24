@@ -42,7 +42,7 @@ Furthermore:
   first move should be performed in the direction that
   would take the Blip closer to potential alignment.
   After that the Blip will ‘zigzag’ towards the Spacer
-  (See Intruder Movement on p.28), al ternating directions, until it arrives on an intersection that shares
+  (See [Intruder Movement](resolving-ai-protocols.md#intruder-movement) on p.28), al ternating directions, until it arrives on an intersection that shares
   a line with the Spacer’s space, at which point it will
   continue to move in a straight line.
 
@@ -75,7 +75,7 @@ triggered the spawn effect, facing the most Spacers. Furthermore:
 - If no Spacer triggered the effect (for example,
   it was triggered by the Countdown marker
   moving onto a space with a ![Blip icon](svg/icon-blip.svg "Blip Symbol") ), the Blip
-  spawns closest to the ![Target Priority Icon](img/icon-target.png "Priority") Spacer.
+  spawns closest to the ![Target Priority Icon](svg/icon-target.svg "Priority") Spacer.
 
 - If all spawn points are occupied, spawn the
   new Blip on the closest spawn point and
@@ -106,11 +106,11 @@ move adjacent to or while adjacent a Spacer,
 it’s immediately revealed!**
 
 ![](img/sneaking-past-blips.png)  
-*A Spacer moving past a Blip (1) does not cause it
+*A Spacer moving past a Blip <span class="red-round">1</span> does not cause it
 to be revealed. However, if the Blip moves onto an
-intersection adjacent to a Spacer (2) , or is about
+intersection adjacent to a Spacer <span class="red-round">2</span>, or is about
 to move from an intersection adjacent to a Spacer
-(3) , it is immediately revealed*
+<span class="red-round">3</span>, it is immediately revealed*
 
 ## Revealing Blips
 
@@ -149,7 +149,7 @@ the spawned Intruder to denote this.
 
 **If a Blip reveals itself in the manner described
 above, the spawned Intruder immediately acts
-(see B. Resolving AI Protocols on p. 28).**
+(see [B. Resolving AI Protocols](resolving-ai-protocols.md) on p. 28).**
 
 If you reveal the Blip through another means, like
 the Scout action, you do not perform an ambush attack. In fact, if you reveal a Blip with a Scout action,

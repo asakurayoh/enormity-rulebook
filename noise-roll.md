@@ -53,7 +53,7 @@ Noise Rolls are subjects to the following rules:
   Stress ![Stress Icon](svg/icon-stress.svg) to re-roll Noise dice and Discipline ![Discipline Icon](svg/icon-discipline.svg)
   tokens to mitigate Noise (see [Spacer Pool and Spacer Tokens](spacer-pool-and-spacer-tokens.md) on p. 8 for details).
 - When you make Noise, you immediately
-  take the **Priority Target/Last to Noise ![Priority Targer Icon](img/icon-target.png) marker**.
+  take the **Priority Target/Last to Noise ![Priority Targer Icon](svg/icon-target.svg) marker**.
 - Noise will trigger Blip movement (see [Blips](blips.md) and [Blip Movement](blip-movement.md) below).
 
 **Remember:** Various game effects may check for

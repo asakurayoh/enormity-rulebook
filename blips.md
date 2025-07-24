@@ -6,7 +6,7 @@ the ducts of the space… or they may be very bad
 news. You won’t know until you scout their area
 – or until they are on top of you.
 
-Blips move during the Intruder Phase, as part of patrolling (see Blip Patrols on p. 30), but they also **react
+Blips move during the Intruder Phase, as part of patrolling (see [Blip Patrols](blip-patrols.md) on p. 30), but they also **react
 to every Noise ![Noise Icon](svg/icon-noise.svg) made**. In other words, whenever
 a Spacer, or something else, makes Noise, Blips will
 move towards you.
