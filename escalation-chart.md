@@ -71,12 +71,3 @@ Shuffle the BP discard pile into the BP deck. <br> Note: the BP deck will have 1
 </tr>
 </tbody>
 </table>
-
-| |  | |
-|:---:|:---:|:---:|
-|||
-||||
-||||
-|||(Same as previous)|
-||||
-|||(Same as previous)|
