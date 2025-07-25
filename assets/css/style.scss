@@ -120,6 +120,7 @@ body{
             position: absolute;
             top: 0;
             border-style: solid;
+            bottom:0;
         }
         &:before{
             left: -7px;
@@ -127,7 +128,7 @@ body{
             border-width: 7px 7px 7px 0;
         }
         &:after{
-            left: 7px;
+            right: -7px;
             border-color: transparent  transparent transparent black;
             border-width: 7px 0 7px 7px;
             border-style: solid;
