@@ -105,12 +105,33 @@ body{
     .keyword{
         // TODO: add cutted corners
         display:inline-block;
-        padding: 0 0.5em;
+        padding: 0 0.25em;
         background: black;
         color: white;
         font-weight: 500;
+        position: relative;
+        margin: 0 7px;
         img {
             vertical-align: middle;
+        }
+        &:before, &:after{
+            content: "";
+            width: 0;
+            position: absolute;
+            top: 0;
+            border-style: solid;
+        }
+        &:before{
+            left: -7px;
+            border-color: transparent black transparent transparent;
+            border-width: 7px 7px 7px 0;
+        }
+        &:after{
+            left: 7px;
+            border-color: transparent  transparent transparent black;
+            border-width: 7px 0 7px 7px;
+            border-style: solid;
+
         }
     }
 }
