@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="styles.css" />
-
 # Rubicon Stats
 
 These three statistics represent your Spacer’s

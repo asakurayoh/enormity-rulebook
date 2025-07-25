@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="styles.css" />
-
 # Anatomy Of A Player Board
 
 ![Player board](img/player-board.png "Player board")
